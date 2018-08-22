@@ -19,7 +19,7 @@
 ### ※ 사용전 일단 한번 무엇이 있는지 쭉 읽어보시고 ctrl + f로 검색 가능합니다. 
 - - -
 
-### WEB
+###WEB
 ```
 	사이트
 		교육
@@ -339,7 +339,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			패럴렉스 스크롤 예제 - http://pixelcog.github.io/parallax.js/
 			hr태그1 http://cezacx2.tistory.com/949
 			hr태그2 http://blog.naver.com/iamwinmir/220731522525
-			포토샵레이어처럼 웹에서 효과주기 http://blog.naver.com/PostThumbnailView.nhn?blogId=535bo3ob&logNo=220744655913&categoryNo=25&parentCategoryNo=&from=postList
+			포토샵레이어처럼 웹에서 효과주기 [mix-blend-mod] - http://blog.naver.com/PostThumbnailView.nhn?blogId=535bo3ob&logNo=220744655913&categoryNo=25&parentCategoryNo=&from=postList
 			포토샵CC 머리카락 누끼 따기 - http://enow.co.kr/221071879662
 			쇼핑몰처럼오버시 큰화면에서 보여주기 http://blog.naver.com/dasol825/220671795350
 			2018년 웹 개발자 로드맵 - https://github.com/devJang/developer-roadmap
@@ -395,6 +395,11 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			runkit [코드 테스트기?]- https://runkit.com/home#notebooks
 			input type 종류 - https://blog.naver.com/heartflow89/221161705731
 			git 과  github - http://ingeec.tistory.com/50
+				git pro pdf 버전 - https://progit2.s3.amazonaws.com/ko/2015-07-08-5c390/progit-ko.582.pdf
+				초심자를 위한 git 협업 - https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
+				개발바보들 1화 git back to the fucher? - http://www.devpools.kr/2017/01/31/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-1%ED%99%94-git-back-to-the-future/
+				개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
+				git / github 개념 - http://gangju.tistory.com/12
 			(네이버)웹마스터도구:웹 표준 최적화 기본 가이드 - http://webmastertool.naver.com/guide/basic_optimize.naver#
 			사용자 정의 css속성 사용하기 - https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_variables
 			사용자 정의 html속성 사용하기 - https://en.bem.info/methodology/naming-convention/
@@ -407,7 +412,9 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			글자 애니메이션 예제들 - https://tympanus.net/codrops/2018/01/10/decorative-letter-animations/
 			font-strech 속성? - https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch
 			이미지 경로 오류시 대체 이미지 설정 - http://secr.tistory.com/130
+			css애니메이션 유저 샘플 - http://deadintegral.cafe24.com/KISS/Projec/cssAni.html
 			css import 를 사용하기전 알아야 할 것들 - http://egloos.zum.com/seye2/v/2319809
+			FOUC[fouc 깜빡임 flash of unstyled content) - http://uzulab.tistory.com/4
 			Refactoring[리팩토링] - Refactoring
 			IE 6-8 의사클래스 및 속성 선택자 지원하기 http://pentode.tistory.com/179
 			내 폰 또는 pc에 있는 폰트 미리 확인하기 https://wordmark.it/
@@ -535,6 +542,9 @@ http://jquery.malsup.com/cycle2/demo/
 							오류 문제
 								이미지 사이즈 문제? - http://j07051.tistory.com/415
 - https://github.com/stevenwanderski/bxslider-4/issues/521
+								페이지 로딩시 깜박임 현상[ FOUC,fouc  ] - https://m.blog.naver.com/PostView.nhn?blogId=newyasin&logNo=220456434079&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+								위와 비슷하나 다른 방법 [ FOUC, fouc ] - http://uzulab.tistory.com/4
+								로딩 이슈 - http://mandooya.com/entry/bxslider-loading-issue-bxslider-%EB%A1%9C%EB%94%A9-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95
 							옵션 - 3개씩 또는 1개씩 보여주게하기 . http://budlike.tistory.com/629
 						swiper
 							슬라이드 스와이퍼(swiper) http://idangero.us/swiper/demos/#.WVH4yKiLSUl
@@ -841,6 +851,7 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 npm run-script build
 serve -s build  
 후 생성된 build폴더 내의 파일들을 업로드
+				react + webpack으로 개발환경 만들기 [ 블로그]
 			Node.js
 				node.js 강좌 - https://velopert.com/133
 				npm 비교 사이트 [ gulp, grant 같이 ] - https://npmcompare.com/
@@ -873,6 +884,7 @@ serve -s build
 				webpack.config.js 설명 - https://magnking.blog.me/221028723814
 				webpack.cofing.js 설명2 - http://d2.naver.com/helloworld/0239818
 				webpack4[웹팩4] - http://meetup.toast.com/posts/153
+				webpack + 스프링부트 기반의 개발환경 구축하기 - https://medium.com/@alvin.h/%EC%9B%B9%ED%8C%A9-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B8%B0%EB%B0%98%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-87cd758e1eae
 			git [깃 깃허브]
 				.gitignore - 깃에 올릴때 불필요한 파일 및 폴더무시 - http://promobile.tistory.com/369
 				홈페이지 https://facebook.github.io/react/tutorial/tutorial.html
@@ -917,6 +929,10 @@ http://tympanus.net/Tutorials/Animated3DBarChart/  3차원 입체 bar차트 Anim
 				함수형 프로그래밍
 					블로그1 - http://dev-momo.tistory.com/entry/Functional-Programming-in-Javascript
 					깃헙1 - https://github.com/hg-pyun/study-example/tree/functional/basic
+		개념
+			TDD를 연습하면서 참고하기 좋은 팁 10가지 - https://medium.com/@rinae/tdd-test-driven-development-%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%A9%B4%EC%84%9C-%EC%B0%B8%EA%B3%A0%ED%95%98%EA%B8%B0-%EC%A2%8B%EC%9D%80-%ED%8C%81-10%EA%B0%80%EC%A7%80-d8cf46ae1806
+			TDD , BDD의 차이점 - https://medium.com/@sryu99/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-tdd-bdd%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-3d25fab5ccb2
+			mobx, mst [ 리액트 ] - https://www.slideshare.net/hyunseoblee7/mobx-mst-state-management-109460634
 		정찬명 님 자료 -  http://naradesign.net/wp/
 			html5, html5.1  - https://docs.google.com/presentation/d/1EDoo-_013DT0-oGbi6ubczmQYnJg-IwMuthU1EcPAmk/edit#slide=id.g76dfc365d_0_13
 			css 
@@ -977,4 +993,4 @@ https://goo.gl/TpS7j6
 			jQuery API Browser
 	책
 		프론트엔드 개발자를 위한 자바스크립트 프로그래밍
-```
+		```
