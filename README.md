@@ -19,6 +19,7 @@
 ### ※ 사용전 일단 한번 무엇이 있는지 쭉 읽어보시고 ctrl + f로 검색 가능합니다. 
 - - -
 
+```
 	WEB
 		사이트
 			교육
@@ -310,7 +311,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 						vscode 단축키 - http://demun.tistory.com/2527?category=514542
 						vscode csscomb 설정 - https://cafe.naver.com/hacosa/235648
 				예제 모음집
-					codeplayer http://thecodeplayer.com/
+					codeplayer - http://thecodeplayer.com/
 					61가지 CSS 글자 효과 http://freefrontend.com/css-text-effects/#typing-text
 						폰트 스크립트 typed.js  http://www.mattboldt.com/demos/typed-js/
 						폰트 스크립트 typing effect https://wordpress.org/plugins/animated-typing-effect/
@@ -346,7 +347,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 				쇼핑몰처럼오버시 큰화면에서 보여주기 http://blog.naver.com/dasol825/220671795350
 				2018년 웹 개발자 로드맵 - https://github.com/devJang/developer-roadmap
 				내 스타일의 폰트 만들어 사용하기 및 폰트검색 http://www.myfonts.com/
-				유효성검사 - http://validator.w3.org/
+				html5 유효성검사 - http://validator.w3.org/
 				사이트 디비 정보같은거 보기? - https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia
 				한글폰트검색 https://www.koreafont.com/fonts/list/
 				event object 모음 - https://api.jquery.com/category/events/event-object/
@@ -444,11 +445,11 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 				가변형레이아웃 - https://blog.naver.com/shinekjm/220827752458
 				웹서버 에러 종류 - https://ko.wikipedia.org/wiki/HTTP_%EC%83%81%ED%83%9C_%EC%BD%94%EB%93%9C
 				유튜브 영상을 버튼으로 재생, 일시정지 하기 - https://lab.falsy.me/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EB%B2%84%ED%8A%BC%EC%9C%BC%EB%A1%9C-%EC%9E%AC%EC%83%9D-%EC%9D%BC%EC%8B%9C%EC%A0%95%EC%A7%80-%ED%95%98%EA%B8%B0/
-				튜브영상을 버튼으로 재생, 일시정지 하기2 - http://1004lucifer.blogspot.com/2015/04/youtube-player-api.html
+				유튜브영상을 버튼으로 재생, 일시정지 하기2 - http://1004lucifer.blogspot.com/2015/04/youtube-player-api.html
 				테이블등 ui디자인  https://semantic-ui.com/modules/accordion.html
 				테이블등ui디자인2 https://colorlib.com/wp/css3-table-templates/
 				기획서, 제안서 참고 http://sooahan.wixsite.com/portfolio/blank
-				REST[설명, rest] - https://blog.naver.com/azure0777/221066646741
+				REST[설명, rest, restful] - https://blog.naver.com/azure0777/221066646741
 				미니프로젝트[ 프로젝트 목록] - https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
 				파일첨부 버튼 디자인  http://webdir.tistory.com/435
 				메테리얼 ui[ui디자인] - https://material-ui-next.com/demos/drawers/
@@ -1426,7 +1427,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 					vscode 단축키 - http://demun.tistory.com/2527?category=514542
 					vscode csscomb 설정 - https://cafe.naver.com/hacosa/235648
 			예제 모음집
-				codeplayer http://thecodeplayer.com/
+				codeplayer - http://thecodeplayer.com/
 				61가지 CSS 글자 효과 http://freefrontend.com/css-text-effects/#typing-text
 					폰트 스크립트 typed.js  http://www.mattboldt.com/demos/typed-js/
 					폰트 스크립트 typing effect https://wordpress.org/plugins/animated-typing-effect/
@@ -1462,7 +1463,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			쇼핑몰처럼오버시 큰화면에서 보여주기 http://blog.naver.com/dasol825/220671795350
 			2018년 웹 개발자 로드맵 - https://github.com/devJang/developer-roadmap
 			내 스타일의 폰트 만들어 사용하기 및 폰트검색 http://www.myfonts.com/
-			유효성검사 - http://validator.w3.org/
+			html5 유효성검사 - http://validator.w3.org/
 			사이트 디비 정보같은거 보기? - https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia
 			한글폰트검색 https://www.koreafont.com/fonts/list/
 			event object 모음 - https://api.jquery.com/category/events/event-object/
@@ -1560,11 +1561,11 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			가변형레이아웃 - https://blog.naver.com/shinekjm/220827752458
 			웹서버 에러 종류 - https://ko.wikipedia.org/wiki/HTTP_%EC%83%81%ED%83%9C_%EC%BD%94%EB%93%9C
 			유튜브 영상을 버튼으로 재생, 일시정지 하기 - https://lab.falsy.me/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EB%B2%84%ED%8A%BC%EC%9C%BC%EB%A1%9C-%EC%9E%AC%EC%83%9D-%EC%9D%BC%EC%8B%9C%EC%A0%95%EC%A7%80-%ED%95%98%EA%B8%B0/
-			튜브영상을 버튼으로 재생, 일시정지 하기2 - http://1004lucifer.blogspot.com/2015/04/youtube-player-api.html
+			유튜브영상을 버튼으로 재생, 일시정지 하기2 - http://1004lucifer.blogspot.com/2015/04/youtube-player-api.html
 			테이블등 ui디자인  https://semantic-ui.com/modules/accordion.html
 			테이블등ui디자인2 https://colorlib.com/wp/css3-table-templates/
 			기획서, 제안서 참고 http://sooahan.wixsite.com/portfolio/blank
-			REST[설명, rest] - https://blog.naver.com/azure0777/221066646741
+			REST[설명, rest, restful] - https://blog.naver.com/azure0777/221066646741
 			미니프로젝트[ 프로젝트 목록] - https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
 			파일첨부 버튼 디자인  http://webdir.tistory.com/435
 			메테리얼 ui[ui디자인] - https://material-ui-next.com/demos/drawers/
@@ -2252,4 +2253,3 @@ https://hunter.io/email-verifier
 		임금체불 신고 방법 - http://mandooya.com/entry/%ED%9A%8C%EC%82%AC-%ED%87%B4%EC%82%AC-%EC%8B%9C-%ED%87%B4%EC%A7%81%EA%B8%88-%EC%9E%84%EA%B8%88-%EC%B2%B4%EB%B6%88-%EC%8B%9C-%EB%85%B8%EB%8F%99%EB%B6%80%EC%97%90-%EC%A7%84%EC%A0%95-%EC%8B%A0%EC%B2%AD-%EB%B0%A9%EB%B2%95?category=375879
 		얘는 무슨 사이트지 - https://feeder.co/
 	```
-	
