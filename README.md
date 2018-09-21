@@ -20,7 +20,6 @@
 - - -
 
 	WEB
-	```
 		사이트
 			교육
 				생활코딩(JQuery)    https://opentutorials.org/course/53/45 
