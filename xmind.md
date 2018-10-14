@@ -243,6 +243,13 @@ http://iyakiggun.blog.me/100165592587
 				이랜서 http://www.elancer.co.kr/index.php
 				프리모아 http://www.freemoa.net/ 
 				크몽  https://kmong.com/
+			알고리즘 문제풀이 사이트
+				AlgoSpot 
+				Codility
+				프로그래머스
+				해커랭크
+				leetcode
+				백준
 			팁
 				팁 모음집 - http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=20
 				색상관련
@@ -390,6 +397,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 					개발바보들 1화 git back to the fucher? - http://www.devpools.kr/2017/01/31/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-1%ED%99%94-git-back-to-the-future/
 					개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
 					git / github 개념 - http://gangju.tistory.com/12
+					명령어 커스텀 하기 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
 				(네이버)웹마스터도구:웹 표준 최적화 기본 가이드 - http://webmastertool.naver.com/guide/basic_optimize.naver#
 				사용자 정의 css속성 사용하기 - https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_variables
 				사용자 정의 html속성 사용하기 - https://en.bem.info/methodology/naming-convention/
@@ -670,6 +678,7 @@ caseins.co.kr/03
 				[기사]인공지능 웹사이트 디자인 -  https://m.blog.naver.com/PostView.nhn?blogId=hallym&logNo=220279247459&proxyReferer=http%3A%2F%2Fnaver.me%2FxKD39dl7
 
 				vue 특이한 포폴 - http://brucelee7.cafe24.com/#/
+				김정환님 [블로그]  - http://blog.jeonghwan.net/
 			레퍼런스(기술 문서?)
 				모음 - http://devdocs.io/
 				자바스크립트 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
@@ -882,6 +891,7 @@ serve -s build
 					react + webpack으로 개발환경 만들기 [ 블로그]
 				Node.js
 					node.js 강좌 - https://velopert.com/133
+					node를 이용한 웹서버 만들기 [ 김정환 블로그 ] - http://webframeworks.kr/tutorials/nodejs/api-server-by-nodejs-01/
 					npm 비교 사이트 [ gulp, grant 같이 ] - https://npmcompare.com/
 					환경변수 설정 - https://blog.naver.com/softzonecokr/221077929321
 					npm 설치 및 확인 - http://blog.danggun.net/4147
@@ -974,6 +984,7 @@ http://tympanus.net/Tutorials/Animated3DBarChart/  3차원 입체 bar차트 Anim
 				TDD , BDD의 차이점 - https://medium.com/@sryu99/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-tdd-bdd%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-3d25fab5ccb2
 				mobx, mst [ 리액트 ] - https://www.slideshare.net/hyunseoblee7/mobx-mst-state-management-109460634
 				jsp 모델1과 모델2 - https://okky.kr/article/508151
+				REST API 설명 - https://meetup.toast.com/posts/92
 				RESTful - 
 REST는 개념입니다.
 정확한 표현은 RESTful API가 맞습니다.
@@ -1065,13 +1076,16 @@ https://goo.gl/TpS7j6
 			프론트엔드 개발자를 위한 자바스크립트 프로그래밍
 	디비
 		workbench - http://aquerytool.com/
+		ORM 개념 [ 슬라이드쉐어 ] - https://www.slideshare.net/javajigi/orm-27141159
 		HeidiSQL(하이디SQL) 디비 관리 툴? - https://blog.naver.com/knh_0313/221147690147
 		디비모델링 툴 - https://kr.yellowerd.com/
 		[ window ] 에서 mysql 실행하기 - https://blog.naver.com/ameeam/220231892922
 		[ window ] 에서 db table 만들기 - https://blog.naver.com/ameeam/220169877023
 		table 접근하기 - https://blog.naver.com/ameeam/220170983861
+			window mysql 연동 [ 에러 ] - https://www.inflearn.com/dwquestion/nodejs%EC%99%80-mysql-%EC%97%B0%EB%8F%99-%EC%97%90%EB%9F%AC/
 	통신( tcp/ip )
 		postman
+		petch api post sample? ( 사용방법 모름 )  - https://googlechrome.github.io/samples/fetch-api/fetch-post.html
 	자료구조
 		시뮬레이터 - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 		선택, 삽입, 버블 정렬 알고리즘 - https://jongmin92.github.io/2017/11/06/Algorithm/Concept/basic-sort/
@@ -1436,6 +1450,13 @@ http://iyakiggun.blog.me/100165592587
 			이랜서 http://www.elancer.co.kr/index.php
 			프리모아 http://www.freemoa.net/ 
 			크몽  https://kmong.com/
+		알고리즘 문제풀이 사이트
+			AlgoSpot 
+			Codility
+			프로그래머스
+			해커랭크
+			leetcode
+			백준
 		팁
 			팁 모음집 - http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=20
 			색상관련
@@ -1583,6 +1604,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 				개발바보들 1화 git back to the fucher? - http://www.devpools.kr/2017/01/31/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-1%ED%99%94-git-back-to-the-future/
 				개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
 				git / github 개념 - http://gangju.tistory.com/12
+				명령어 커스텀 하기 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
 			(네이버)웹마스터도구:웹 표준 최적화 기본 가이드 - http://webmastertool.naver.com/guide/basic_optimize.naver#
 			사용자 정의 css속성 사용하기 - https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_variables
 			사용자 정의 html속성 사용하기 - https://en.bem.info/methodology/naming-convention/
@@ -1863,6 +1885,7 @@ caseins.co.kr/03
 			[기사]인공지능 웹사이트 디자인 -  https://m.blog.naver.com/PostView.nhn?blogId=hallym&logNo=220279247459&proxyReferer=http%3A%2F%2Fnaver.me%2FxKD39dl7
 
 			vue 특이한 포폴 - http://brucelee7.cafe24.com/#/
+			김정환님 [블로그]  - http://blog.jeonghwan.net/
 		레퍼런스(기술 문서?)
 			모음 - http://devdocs.io/
 			자바스크립트 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
@@ -2075,6 +2098,7 @@ serve -s build
 				react + webpack으로 개발환경 만들기 [ 블로그]
 			Node.js
 				node.js 강좌 - https://velopert.com/133
+				node를 이용한 웹서버 만들기 [ 김정환 블로그 ] - http://webframeworks.kr/tutorials/nodejs/api-server-by-nodejs-01/
 				npm 비교 사이트 [ gulp, grant 같이 ] - https://npmcompare.com/
 				환경변수 설정 - https://blog.naver.com/softzonecokr/221077929321
 				npm 설치 및 확인 - http://blog.danggun.net/4147
@@ -2167,6 +2191,7 @@ http://tympanus.net/Tutorials/Animated3DBarChart/  3차원 입체 bar차트 Anim
 			TDD , BDD의 차이점 - https://medium.com/@sryu99/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-tdd-bdd%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-3d25fab5ccb2
 			mobx, mst [ 리액트 ] - https://www.slideshare.net/hyunseoblee7/mobx-mst-state-management-109460634
 			jsp 모델1과 모델2 - https://okky.kr/article/508151
+			REST API 설명 - https://meetup.toast.com/posts/92
 			RESTful - 
 REST는 개념입니다.
 정확한 표현은 RESTful API가 맞습니다.
@@ -2258,13 +2283,16 @@ https://goo.gl/TpS7j6
 		프론트엔드 개발자를 위한 자바스크립트 프로그래밍
 디비
 	workbench - http://aquerytool.com/
+	ORM 개념 [ 슬라이드쉐어 ] - https://www.slideshare.net/javajigi/orm-27141159
 	HeidiSQL(하이디SQL) 디비 관리 툴? - https://blog.naver.com/knh_0313/221147690147
 	디비모델링 툴 - https://kr.yellowerd.com/
 	[ window ] 에서 mysql 실행하기 - https://blog.naver.com/ameeam/220231892922
 	[ window ] 에서 db table 만들기 - https://blog.naver.com/ameeam/220169877023
 	table 접근하기 - https://blog.naver.com/ameeam/220170983861
+		window mysql 연동 [ 에러 ] - https://www.inflearn.com/dwquestion/nodejs%EC%99%80-mysql-%EC%97%B0%EB%8F%99-%EC%97%90%EB%9F%AC/
 통신( tcp/ip )
 	postman
+	petch api post sample? ( 사용방법 모름 )  - https://googlechrome.github.io/samples/fetch-api/fetch-post.html
 자료구조
 	시뮬레이터 - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 	선택, 삽입, 버블 정렬 알고리즘 - https://jongmin92.github.io/2017/11/06/Algorithm/Concept/basic-sort/
