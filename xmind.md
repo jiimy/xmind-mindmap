@@ -237,6 +237,7 @@ http://iyakiggun.blog.me/100165592587
 					벨로퍼트님의 sass - https://velopert.com/1712       
 사용할시에는 css로 link시키고, 실제 코딩할땐 scss를 -w 돌려서 작업
 					sass 설명 [블로그] - https://chayeoi.com/til/20180124/
+					scss 스타일 가이드 - https://sass-guidelin.es/ko/
 			프리랜서
 				위시캣 https://www.wishket.com/project
 				프리누리 http://www.freenuri.co.kr/main/index.html
@@ -338,7 +339,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 				쇼핑몰처럼오버시 큰화면에서 보여주기 http://blog.naver.com/dasol825/220671795350
 				2018년 웹 개발자 로드맵 - https://github.com/devJang/developer-roadmap
 				내 스타일의 폰트 만들어 사용하기 및 폰트검색 http://www.myfonts.com/
-				폰트 매트릭스 [ font 규격] - http://wit.nts-corp.com/2017/09/25/4903
+				폰트 매트릭스 [ font 규격, 어렵, 내용 김] - http://wit.nts-corp.com/2017/09/25/4903
 				html5 유효성검사 - http://validator.w3.org/
 				사이트 디비 정보같은거 보기? - https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia
 				한글폰트검색 https://www.koreafont.com/fonts/list/
@@ -813,6 +814,7 @@ http://devjhs.tistory.com/109
 				동적으로 객체 생성시 jquery 제어 방법    http://infodbbase.tistory.com/65
 			JAVASCRIPT[자바스크립트]
 				jquery 의 siblings 대체하기 - https://stackoverflow.com/questions/842336/is-there-a-way-to-select-sibling-nodes
+				디버깅 팁 14가지 - https://raygun.com/javascript-debugging-tips
 				es6 축약코딩 기법 19가지 - https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html
 				Iterator[ 이터레이터 ] - https://medium.com/@la.place/javascript-iterator-b16ca3c51af2
 				실시간 스크립트 컴파일러 - http://pythontutor.com/javascript.html#mode=edit
@@ -822,7 +824,8 @@ http://devjhs.tistory.com/109
 				[모질라] 자바스크립트의 메모리 관리 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management
 				보다나은 조건문을 작성하는 5가지 팁 - https://scotch.io/tutorials/5-tips-to-write-better-conditionals-in-javascript
 				자바스크립트는 어떻게 작동하는가?(1) : 엔진, 런타임, 콜스택 - https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%97%94%EC%A7%84-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%BD%9C%EC%8A%A4%ED%83%9D-%EA%B0%9C%EA%B4%80-ea47917c8442
-				자바스크립트는 어떻게 작동하는가?(2) : 메모리 관리 + 4가지 흔한 메모리 누수 대처법 - https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d
+				자바스크립트는 어떻게 작동하는가?(2) : 메모리 관리 + 4가지 흔한 메모리 누수 대처법 - 
+https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d
 				깊은 복사 얕은 복사 - http://wanna-b.tistory.com/18
 				싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
 				객체지향 프로그래밍 5 원칙 - https://namu.wiki/w/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9B%90%EC%B9%99
@@ -1444,6 +1447,7 @@ http://iyakiggun.blog.me/100165592587
 				벨로퍼트님의 sass - https://velopert.com/1712       
 사용할시에는 css로 link시키고, 실제 코딩할땐 scss를 -w 돌려서 작업
 				sass 설명 [블로그] - https://chayeoi.com/til/20180124/
+				scss 스타일 가이드 - https://sass-guidelin.es/ko/
 		프리랜서
 			위시캣 https://www.wishket.com/project
 			프리누리 http://www.freenuri.co.kr/main/index.html
@@ -1545,7 +1549,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			쇼핑몰처럼오버시 큰화면에서 보여주기 http://blog.naver.com/dasol825/220671795350
 			2018년 웹 개발자 로드맵 - https://github.com/devJang/developer-roadmap
 			내 스타일의 폰트 만들어 사용하기 및 폰트검색 http://www.myfonts.com/
-			폰트 매트릭스 [ font 규격] - http://wit.nts-corp.com/2017/09/25/4903
+			폰트 매트릭스 [ font 규격, 어렵, 내용 김] - http://wit.nts-corp.com/2017/09/25/4903
 			html5 유효성검사 - http://validator.w3.org/
 			사이트 디비 정보같은거 보기? - https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia
 			한글폰트검색 https://www.koreafont.com/fonts/list/
@@ -2020,6 +2024,7 @@ http://devjhs.tistory.com/109
 			동적으로 객체 생성시 jquery 제어 방법    http://infodbbase.tistory.com/65
 		JAVASCRIPT[자바스크립트]
 			jquery 의 siblings 대체하기 - https://stackoverflow.com/questions/842336/is-there-a-way-to-select-sibling-nodes
+			디버깅 팁 14가지 - https://raygun.com/javascript-debugging-tips
 			es6 축약코딩 기법 19가지 - https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html
 			Iterator[ 이터레이터 ] - https://medium.com/@la.place/javascript-iterator-b16ca3c51af2
 			실시간 스크립트 컴파일러 - http://pythontutor.com/javascript.html#mode=edit
@@ -2029,7 +2034,8 @@ http://devjhs.tistory.com/109
 			[모질라] 자바스크립트의 메모리 관리 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management
 			보다나은 조건문을 작성하는 5가지 팁 - https://scotch.io/tutorials/5-tips-to-write-better-conditionals-in-javascript
 			자바스크립트는 어떻게 작동하는가?(1) : 엔진, 런타임, 콜스택 - https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%97%94%EC%A7%84-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%BD%9C%EC%8A%A4%ED%83%9D-%EA%B0%9C%EA%B4%80-ea47917c8442
-			자바스크립트는 어떻게 작동하는가?(2) : 메모리 관리 + 4가지 흔한 메모리 누수 대처법 - https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d
+			자바스크립트는 어떻게 작동하는가?(2) : 메모리 관리 + 4가지 흔한 메모리 누수 대처법 - 
+https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d
 			깊은 복사 얕은 복사 - http://wanna-b.tistory.com/18
 			싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
 			객체지향 프로그래밍 5 원칙 - https://namu.wiki/w/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9B%90%EC%B9%99
