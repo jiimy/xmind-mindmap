@@ -392,13 +392,6 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 				멀티라인 [말줄임]처리와 폴백 - http://tobyyun.tumblr.com/post/55858430437/css%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%A9%80%ED%8B%B0%EB%9D%BC%EC%9D%B8-%EB%A7%90%EC%A4%84%EC%9E%84-%EC%B2%98%EB%A6%AC%EC%99%80-%ED%8F%B4%EB%B0%B1
 				runkit [코드 테스트기?]- https://runkit.com/home#notebooks
 				input type 종류 - https://blog.naver.com/heartflow89/221161705731
-				git 과  github - http://ingeec.tistory.com/50
-					git pro pdf 버전 - https://progit2.s3.amazonaws.com/ko/2015-07-08-5c390/progit-ko.582.pdf
-					초심자를 위한 git 협업 - https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
-					개발바보들 1화 git back to the fucher? - http://www.devpools.kr/2017/01/31/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-1%ED%99%94-git-back-to-the-future/
-					개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
-					git / github 개념 - http://gangju.tistory.com/12
-					명령어 커스텀 하기 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
 				(네이버)웹마스터도구:웹 표준 최적화 기본 가이드 - http://webmastertool.naver.com/guide/basic_optimize.naver#
 				사용자 정의 css속성 사용하기 - https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_variables
 				사용자 정의 html속성 사용하기 - https://en.bem.info/methodology/naming-convention/
@@ -447,6 +440,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 				REST[설명, rest, restful] - https://blog.naver.com/azure0777/221066646741
 				미니프로젝트[ 프로젝트 목록] - https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
 				파일첨부 버튼 디자인  http://webdir.tistory.com/435
+				오픈소스 기여 - https://okky.kr/article/512868
 				메테리얼 ui[ui디자인] - https://material-ui-next.com/demos/drawers/
 				크로스브라우징 툴? - http://seunghyeonkim.tistory.com/54
 				브라우저 동작의 이해 reflow, repaint 그리고 최적화 - http://www.mimul.com/pebble/default/2013/07/07/1373183724195.html
@@ -521,7 +515,6 @@ src:url('http://fontawesome.io/assets/font-awesome/fonts/fontawesome-webfont.eot
  -> 900보다 작으면 3을 리턴해서 받고 아니면 4를 받는거
 					input 검색 - https://harvesthq.github.io/chosen/
 					Lazyload 플러그인(이미지 동적 호출) - http://www.dontorz.com/bbs/?mode=view&bbsid=study&ctg_cd=js&page_nm=page&page=1&bltn_seq=208
-					핀터레스트 같은 레이아웃 플러그인(타인 제작) - http://yj-plugin.com/demo/triton/
 					jquery fullcalender 플러그인 - http://ismydream.tistory.com/93?category=559761
 					50개의 jquery 플러그인 https://tutorialzine.com/2013/04/50-amazing-jquery-plugins
 					jquery 플러그인 모음집2 https://speckyboy.com/free-jquery-plugins/
@@ -827,7 +820,11 @@ http://devjhs.tistory.com/109
 				자바스크립트는 어떻게 작동하는가?(2) : 메모리 관리 + 4가지 흔한 메모리 누수 대처법 - 
 https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d
 				깊은 복사 얕은 복사 - http://wanna-b.tistory.com/18
-				싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
+				패턴
+					SAM 패턴 [샘 패턴] 
+					싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
+					Observer 패턴 [ 옵저버 ] 
+					Pub-Sub 패턴(논문/구독) - 
 				객체지향 프로그래밍 5 원칙 - https://namu.wiki/w/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9B%90%EC%B9%99
 				이벤트 전파를 막는 4가지 방법 
 - e.preventDefault();
@@ -932,6 +929,13 @@ serve -s build
 					webpack4[웹팩4] - http://meetup.toast.com/posts/153
 					webpack + 스프링부트 기반의 개발환경 구축하기 - https://medium.com/@alvin.h/%EC%9B%B9%ED%8C%A9-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B8%B0%EB%B0%98%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-87cd758e1eae
 				git [깃 깃허브]
+					git 과  github - http://ingeec.tistory.com/50
+						git pro pdf 버전 - https://progit2.s3.amazonaws.com/ko/2015-07-08-5c390/progit-ko.582.pdf
+						초심자를 위한 git 협업 - https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
+						개발바보들 1화 git back to the fucher? - http://www.devpools.kr/2017/01/31/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-1%ED%99%94-git-back-to-the-future/
+						개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
+						git / github 개념 - http://gangju.tistory.com/12
+						명령어 커스텀 하기 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
 					.gitignore - 깃에 올릴때 불필요한 파일 및 폴더무시 - http://promobile.tistory.com/369
 					실습으로 배우는 깃 - https://learngitbranching.js.org/
 					깃허브로 취업하기 - https://sujinlee.me/professional-github/
@@ -1078,7 +1082,7 @@ https://goo.gl/TpS7j6
 		책
 			프론트엔드 개발자를 위한 자바스크립트 프로그래밍
 	디비
-		workbench - http://aquerytool.com/
+		workbench [web에서 디비 모델링 그리기]- http://aquerytool.com/
 		ORM 개념 [ 슬라이드쉐어 ] - https://www.slideshare.net/javajigi/orm-27141159
 		HeidiSQL(하이디SQL) 디비 관리 툴? - https://blog.naver.com/knh_0313/221147690147
 		디비모델링 툴 - https://kr.yellowerd.com/
@@ -1205,11 +1209,13 @@ https://hunter.io/email-verifier
 		읽을거리
 			리만 가설 - https://blog.naver.com/wjdtkd1227/221364468975
 	자세히 읽어볼것 ( 목록에 추가 안됨 ) 
-		
-		
-		
-		
-		
+		preloading?  - https://css-tricks.com/prefetching-preloading-prebrowsing/
+		2018 okky kon ( TDD ) - https://okky.kr/article/514367
+		모든 개발자가 알아야 하는 SOLID 원칙 - http://doublem.org/SOLID_SRP_OCP/
+		react hook - https://velog.io/@velopert/react-hooks
+		ecma와 tc39 - https://ahnheejong.name/articles/ecmascript-tc39/?fbclid=IwAR3iVtf5_WxcupeLs_JO_WrPb7prdL8xFHAxb3R5dW6u0-DXWC8FaX0hJ44
+		[논문] [번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 - https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr
+		react redux [ 리덕스 ] - https://velopert.com/1225
 WEB
 	사이트
 		교육
@@ -1602,13 +1608,6 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			멀티라인 [말줄임]처리와 폴백 - http://tobyyun.tumblr.com/post/55858430437/css%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%A9%80%ED%8B%B0%EB%9D%BC%EC%9D%B8-%EB%A7%90%EC%A4%84%EC%9E%84-%EC%B2%98%EB%A6%AC%EC%99%80-%ED%8F%B4%EB%B0%B1
 			runkit [코드 테스트기?]- https://runkit.com/home#notebooks
 			input type 종류 - https://blog.naver.com/heartflow89/221161705731
-			git 과  github - http://ingeec.tistory.com/50
-				git pro pdf 버전 - https://progit2.s3.amazonaws.com/ko/2015-07-08-5c390/progit-ko.582.pdf
-				초심자를 위한 git 협업 - https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
-				개발바보들 1화 git back to the fucher? - http://www.devpools.kr/2017/01/31/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-1%ED%99%94-git-back-to-the-future/
-				개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
-				git / github 개념 - http://gangju.tistory.com/12
-				명령어 커스텀 하기 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
 			(네이버)웹마스터도구:웹 표준 최적화 기본 가이드 - http://webmastertool.naver.com/guide/basic_optimize.naver#
 			사용자 정의 css속성 사용하기 - https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_variables
 			사용자 정의 html속성 사용하기 - https://en.bem.info/methodology/naming-convention/
@@ -1657,6 +1656,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			REST[설명, rest, restful] - https://blog.naver.com/azure0777/221066646741
 			미니프로젝트[ 프로젝트 목록] - https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
 			파일첨부 버튼 디자인  http://webdir.tistory.com/435
+			오픈소스 기여 - https://okky.kr/article/512868
 			메테리얼 ui[ui디자인] - https://material-ui-next.com/demos/drawers/
 			크로스브라우징 툴? - http://seunghyeonkim.tistory.com/54
 			브라우저 동작의 이해 reflow, repaint 그리고 최적화 - http://www.mimul.com/pebble/default/2013/07/07/1373183724195.html
@@ -1731,7 +1731,6 @@ src:url('http://fontawesome.io/assets/font-awesome/fonts/fontawesome-webfont.eot
  -> 900보다 작으면 3을 리턴해서 받고 아니면 4를 받는거
 				input 검색 - https://harvesthq.github.io/chosen/
 				Lazyload 플러그인(이미지 동적 호출) - http://www.dontorz.com/bbs/?mode=view&bbsid=study&ctg_cd=js&page_nm=page&page=1&bltn_seq=208
-				핀터레스트 같은 레이아웃 플러그인(타인 제작) - http://yj-plugin.com/demo/triton/
 				jquery fullcalender 플러그인 - http://ismydream.tistory.com/93?category=559761
 				50개의 jquery 플러그인 https://tutorialzine.com/2013/04/50-amazing-jquery-plugins
 				jquery 플러그인 모음집2 https://speckyboy.com/free-jquery-plugins/
@@ -2037,7 +2036,11 @@ http://devjhs.tistory.com/109
 			자바스크립트는 어떻게 작동하는가?(2) : 메모리 관리 + 4가지 흔한 메모리 누수 대처법 - 
 https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d
 			깊은 복사 얕은 복사 - http://wanna-b.tistory.com/18
-			싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
+			패턴
+				SAM 패턴 [샘 패턴] 
+				싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
+				Observer 패턴 [ 옵저버 ] 
+				Pub-Sub 패턴(논문/구독) - 
 			객체지향 프로그래밍 5 원칙 - https://namu.wiki/w/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9B%90%EC%B9%99
 			이벤트 전파를 막는 4가지 방법 
 - e.preventDefault();
@@ -2142,6 +2145,13 @@ serve -s build
 				webpack4[웹팩4] - http://meetup.toast.com/posts/153
 				webpack + 스프링부트 기반의 개발환경 구축하기 - https://medium.com/@alvin.h/%EC%9B%B9%ED%8C%A9-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B8%B0%EB%B0%98%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-87cd758e1eae
 			git [깃 깃허브]
+				git 과  github - http://ingeec.tistory.com/50
+					git pro pdf 버전 - https://progit2.s3.amazonaws.com/ko/2015-07-08-5c390/progit-ko.582.pdf
+					초심자를 위한 git 협업 - https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
+					개발바보들 1화 git back to the fucher? - http://www.devpools.kr/2017/01/31/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-1%ED%99%94-git-back-to-the-future/
+					개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
+					git / github 개념 - http://gangju.tistory.com/12
+					명령어 커스텀 하기 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
 				.gitignore - 깃에 올릴때 불필요한 파일 및 폴더무시 - http://promobile.tistory.com/369
 				실습으로 배우는 깃 - https://learngitbranching.js.org/
 				깃허브로 취업하기 - https://sujinlee.me/professional-github/
@@ -2288,7 +2298,7 @@ https://goo.gl/TpS7j6
 	책
 		프론트엔드 개발자를 위한 자바스크립트 프로그래밍
 디비
-	workbench - http://aquerytool.com/
+	workbench [web에서 디비 모델링 그리기]- http://aquerytool.com/
 	ORM 개념 [ 슬라이드쉐어 ] - https://www.slideshare.net/javajigi/orm-27141159
 	HeidiSQL(하이디SQL) 디비 관리 툴? - https://blog.naver.com/knh_0313/221147690147
 	디비모델링 툴 - https://kr.yellowerd.com/
@@ -2415,9 +2425,11 @@ https://hunter.io/email-verifier
 	읽을거리
 		리만 가설 - https://blog.naver.com/wjdtkd1227/221364468975
 자세히 읽어볼것 ( 목록에 추가 안됨 ) 
-	
-	
-	
-	
-	
+	preloading?  - https://css-tricks.com/prefetching-preloading-prebrowsing/
+	2018 okky kon ( TDD ) - https://okky.kr/article/514367
+	모든 개발자가 알아야 하는 SOLID 원칙 - http://doublem.org/SOLID_SRP_OCP/
+	react hook - https://velog.io/@velopert/react-hooks
+	ecma와 tc39 - https://ahnheejong.name/articles/ecmascript-tc39/?fbclid=IwAR3iVtf5_WxcupeLs_JO_WrPb7prdL8xFHAxb3R5dW6u0-DXWC8FaX0hJ44
+	[논문] [번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 - https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr
+	react redux [ 리덕스 ] - https://velopert.com/1225
 ```
