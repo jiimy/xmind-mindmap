@@ -2433,3 +2433,12 @@ https://hunter.io/email-verifier
 	[논문] [번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 - https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr
 	react redux [ 리덕스 ] - https://velopert.com/1225
 ```
+WebSocket Reference 
+1. https://d2.naver.com/helloworld/1052 : WebSocket 지원안했을때 웹채팅구현방법
+2. https://d2.naver.com/helloworld/1336 : WebSocket에 대한 간략한 설명
+3. https://developer.mozilla.org/ko/docs/WebSockets/Writing_WebSocket_servers : WebSocket Protocol 설명
+4. https://developer.mozilla.org/ko/docs/WebSockets/Writing_WebSocket_client_applications : WebSocket Client 프로젝트 생성 설명
+5. https://supawer0728.github.io/2018/03/30/spring-websocket/ : Springboot 가 지원하는 WebSocket(STOMP)
+   https://docs.spring.io/spring/docs/5.0.4.RELEASE/spring-framework-reference/web.html#websocket-stomp-message-flow : Springboot STOMP Offical Document
+   https://spring.io/guides/gs/messaging-stomp-websocket/ : Springboot WebSocket Web Application Document
+6. https://github.com/jmesnil/stomp-websocket : WebSocket Github tutorial
