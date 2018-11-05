@@ -663,10 +663,9 @@ http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=2
 					한 편의 애니메이션 같은 css - https://slides.com/daybrush/cssmotiongraphic#/
 					웹폰트 사용과 최적화 - https://slides.com/sangjinlee/webconf-2018-5#/
 					자체 polyfill.io 서버 구축하여 프론트엔드 최적화하기 - https://slides.com/odyss/deck-8#/
-		블로그 & 포트폴리오
+		블로그 & 포트폴리오 [ 사이트 url 변동 가능성 매우 높음 ]
 			[포폴]93년생 김나영씨 - http://nykim.net/
 			'퍼블리셔'단어 창시자 - 신현석님 블로그 - https://hyeonseok.com/pmwiki/
-			[포폴]퍼블 6년차 - http://sungsukim.co.kr/
 			http://zowsky24.dothome.co.kr
 			https://findawayer.github.io/
 			[개발자] https://taegon.kim/archives/category/tiptech
