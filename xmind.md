@@ -1121,6 +1121,15 @@ https://goo.gl/TpS7j6
 	통신( tcp/ip )
 		postman
 		petch api post sample? ( 사용방법 모름 )  - https://googlechrome.github.io/samples/fetch-api/fetch-post.html
+		websocket [ 웹소켓 ]  by hyemin0420
+			websocket 지원안했을때 웹채팅 구현방법 - https://d2.naver.com/helloworld/1052
+			websocket에 대한 간략한 설명 - https://d2.naver.com/helloworld/1336
+			WebSocket Protocol 설명 - https://developer.mozilla.org/ko/docs/WebSockets/Writing_WebSocket_servers
+			WebSocket Client 프로젝트 생성 설명 - https://developer.mozilla.org/ko/docs/WebSockets/Writing_WebSocket_client_applications
+			Springboot 가 지원하는 WebSocket(STOMP) - https://supawer0728.github.io/2018/03/30/spring-websocket/
+			Springboot STOMP Offical Document [ 원문 ] - https://docs.spring.io/spring/docs/5.0.4.RELEASE/spring-framework-reference/web.html#websocket-stomp-message-flow
+			Springboot WebSocket Web Application Document [ 원문 ]  -  https://spring.io/guides/gs/messaging-stomp-websocket/
+			WebSocket Github tutorial - https://github.com/jmesnil/stomp-websocket
 	자료구조
 		시뮬레이터 - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 		선택, 삽입, 버블 정렬 알고리즘 - https://jongmin92.github.io/2017/11/06/Algorithm/Concept/basic-sort/
@@ -1239,12 +1248,3 @@ https://hunter.io/email-verifier
 	자세히 읽어볼것 ( 목록에 추가 안됨 ) 
 		개발자모드에서 수정시 원본 코드 반영 - http://hwangc.com/autosave-from-chrome-to-source-file/
 ```
-WebSocket Reference 
-1. https://d2.naver.com/helloworld/1052 : WebSocket 지원안했을때 웹채팅구현방법
-2. https://d2.naver.com/helloworld/1336 : WebSocket에 대한 간략한 설명
-3. https://developer.mozilla.org/ko/docs/WebSockets/Writing_WebSocket_servers : WebSocket Protocol 설명
-4. https://developer.mozilla.org/ko/docs/WebSockets/Writing_WebSocket_client_applications : WebSocket Client 프로젝트 생성 설명
-5. https://supawer0728.github.io/2018/03/30/spring-websocket/ : Springboot 가 지원하는 WebSocket(STOMP)
-   https://docs.spring.io/spring/docs/5.0.4.RELEASE/spring-framework-reference/web.html#websocket-stomp-message-flow : Springboot STOMP Offical Document
-   https://spring.io/guides/gs/messaging-stomp-websocket/ : Springboot WebSocket Web Application Document
-6. https://github.com/jmesnil/stomp-websocket : WebSocket Github tutorial
