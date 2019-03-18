@@ -225,7 +225,7 @@ https://designmodo.com/responsive-test/ - 레이아웃 검증 툴
 				gulp1 - http://blog.naver.com/chilla/220731069370
 gulp2 - http://blog.naver.com/chilla/220739475385
 				회복맨님 gulp - http://recoveryman.tistory.com/286
-			SASS & LESS
+			SASS(SCSS) & LESS
 				Sass와 Less http://asfirstalways.tistory.com/m/141
 				sass와 less 비교 설명 - https://taegon.kim/archives/3667
 				Sass 설치 설명1 http://zimny327.blog.me/220556782370
@@ -240,6 +240,8 @@ http://iyakiggun.blog.me/100165592587
 				sass 설명 [블로그] - https://chayeoi.com/til/20180124/
 				scss 스타일 가이드 - https://sass-guidelin.es/ko/
 				sass 함수 정리표 - http://sass-lang.com/documentation/Sass/Script/Functions.html
+				sass 프로젝트를 위한 아키텍쳐(이나 기본 css구조에도 참고) - http://www.webactually.co.kr/archives/13106
+				sass 기초와 활용 2017 하코사 [세미나] - http://hwangsunsoo.org/lecture/src/sass_article_seminar_2017_2nd_half.html#%EC%BA%90%EC%8B%9C(--cache)
 		프리랜서
 			위시캣 https://www.wishket.com/project
 			프리누리 http://www.freenuri.co.kr/main/index.html
@@ -322,6 +324,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			grid 속성(ie10이상부터 벤더 프리픽스 써줘야 익플에서 사용가능)
 				grid-template-areas(실제 영역을 나타내는 부분. 속성을 객체처럼 씀) - https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas
 				grid 예제[그리드] - https://gridbyexample.com/examples/
+				grid 속성(그리드) - http://grid.malven.co/
 			이미지 꾸미기 https://nanati.me/css3-image-effects/#num10
 			css로 gnb 메뉴 만들기 - http://cssmenumaker.com/
 			자바스크립트 에디터(테스트기) - http://js.do/
@@ -420,6 +423,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			IE 6-8 의사클래스 및 속성 선택자 지원하기 https://offbyone.tistory.com/125
 			내 폰 또는 pc에 있는 폰트 미리 확인하기 https://wordmark.it/
 			[모바일] 모바일의 가로세로에 따라 달라지는 css만들기 - http://parkjuwan.dothome.co.kr/wordpress/2017/03/07/make-orientation-css/
+			[모바일] 특이한 media query - https://medium.com/@ferie/detect-a-touch-device-with-only-css-9f8e30fa1134
 			[모바일] - 스마트폰 앱 브라우저에서 크롬 개발자 도구 사용하기 - https://medium.com/cashwalk/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0-%EC%95%B1-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%ED%81%AC%EB%A1%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-c6a34d9aeb02
 			키보드 아스키 코드 값 - http://jehratia.tistory.com/entry/%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%95%84%EC%8A%A4%ED%82%A4%EC%BD%94%EB%93%9C%EA%B0%92
 			팝업창 항상 윈도우화면 가운데에서 띄우게 하기 - https://blog.naver.com/jason0853/220308401844
@@ -658,7 +662,7 @@ http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=2
 			[논문 구글]자스 스타일 가이드 - https://www.vobour.com/%EA%B5%AC%EA%B8%80%EC%9D%80-%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%B0%9C%ED%96%89-%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%8B%A4%EC%9D%8C%EC%9D%80-%EB%AA%87-%EA%B0%80%EC%A7%80-%ED%95%B5%EC%8B%AC
 			[논문]반응형 웹 - http://www.nextree.co.kr/p8622/
 			[논문] 접근성 4가지 분류 및 title속성 - http://blog.hivelab.co.kr/%EA%B3%B5%EC%9C%A0-title-%EC%86%8D%EC%84%B1%EC%9D%98-%EB%B0%94%EB%9E%8C%EC%A7%81%ED%95%9C-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/
-			[토픽]당신에겐 러닝커브가 있나요? - https://brunch.co.kr/@hyungsukkim/11
+			[토픽 *비추천 ]당신에겐 러닝커브가 있나요? - https://brunch.co.kr/@hyungsukkim/11
 			[토픽]혼자하는 개발이 만드는 자만심 - https://brunch.co.kr/@matthew-chang/32
 			[토픽] 앵2 대신에 vue를 선택한 이유 - https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/
 			[토픽] 클린코드와 소프트웨어 장인정신 - https://medium.com/@joongwon/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C%EC%99%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-59b4d8d143ed
@@ -717,6 +721,7 @@ caseins.co.kr/03
 		html 레퍼런스 문서 [HTML5.1] - https://www.w3.org/TR/html5/syntax.html#start-tags
 		html 5.2 레퍼런스 문서 [ HTML5.2 ] - https://www.w3.org/TR/2017/REC-html52-20171214/introduction.html#background
 		라인 뷰티어(html,css) - http://nuli.navercorp.com/sharing/fe/nmet
+		[stackoverflow, bug]a태그의 href를 없앴을 때 - https://stackoverflow.com/questions/5292343/is-an-anchor-tag-without-the-href-attribute-safe
 		section과 article - 
 http://aboooks.tistory.com/346
 		속성
@@ -847,10 +852,16 @@ http://devjhs.tistory.com/109
 			http://lilac0503.blog.me/220357648579
 			select box 제어 http://egloos.zum.com/tiger5net/v/5667935
 			최신프론트엔드 치트 시트 - https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/#자바스크립트-es2015
+			gulp, react 블로그 - https://www.gaesignerblog.com/
+			jq강좌 블로그 - https://blog.naver.com/topsaga/140155597710
 		https://api.jquery.com/selected-selector/
 		동적으로 객체 생성시 jquery 제어 방법    http://infodbbase.tistory.com/65
 	JAVASCRIPT[자바스크립트]
 		javascript Cookbook[설명] - https://mylko72.gitbooks.io/javascript-cookbook/content/index.html
+		11개의 js 애니메이션 라이브러리(2019) - https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59
+		top10 js error[에러] - https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59
+		[MVC]
+			mvc 정리 - https://m.blog.naver.com/jukrang/221414570067
 		handbook 모음 
 			learging - https://frontendmasters.com/books/front-end-handbook/2018/learning/javascript.html
 			인터뷰용 개념 위주 - https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e
@@ -866,6 +877,7 @@ http://devjhs.tistory.com/109
 		es6 축약코딩 기법 19가지 - https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html
 		Iterator[ 이터레이터 ] - https://medium.com/@la.place/javascript-iterator-b16ca3c51af2
 		@yesdoing 님의 이터레이터 & 제네레이터 - https://velog.io/@yesdoing/Iterator-Generator
+		왜 제네레이터 함수를 써야 하는가? - https://velog.io/@rohkorea86/Generator-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EC%9E%90-%EC%9D%B4%EB%A1%A0%ED%8E%B8-%EC%99%9C-%EC%A0%9C%EB%84%A4%EB%A0%88%EC%9D%B4%ED%84%B0-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80
 		실시간 스크립트 컴파일러 - http://pythontutor.com/javascript.html#mode=edit
 		promise 개념 - https://joshua1988.github.io/web-development/javascript/promise-for-beginners/
 		노마드 코더 [ pwa, 엘렉트론 ] - https://www.facebook.com/nomadcoders/posts/-9%EC%9B%94-3%EC%A3%BC-%EB%8B%88%EA%BC%B4%EB%9D%BC%EC%8A%A4%EC%99%80-%EB%A6%B0%EC%9D%B4-%EC%8B%A0%EB%B0%95%ED%95%98%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%9C-top-5-links1-pwa-cafe-pwa-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-pwa-%EB%A9%94%EC%9D%B4%EC%BB%A4%EB%9D%BC%EA%B3%A0-%EB%A0%88%EC%95%8C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%94%84%EB%A6%AC%EC%95%A1%ED%8A%B8-/1755683124544315/
@@ -886,6 +898,9 @@ https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%E
 			Observer 패턴 [ 옵저버 ] 
 			Pub-Sub 패턴(논문/구독) - 
 			FLUX 패턴
+			adapter 패턴
+			facade 패턴
+			decorator 패턴
 		객체지향 프로그래밍 5 원칙 - https://namu.wiki/w/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9B%90%EC%B9%99
 		이벤트 전파를 막는 4가지 방법 
 - e.preventDefault();
@@ -916,6 +931,7 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 			async, await를 사용하여 비동기 javascript를 동기식으로 만들자 - https://blueshw.github.io/2018/02/27/async-await/
 			[번역] - Tasks, microtasks, queues and schedules - https://blueshw.github.io/2018/01/28/tasks-microtasks-queues-and-schedules/
 			Promise 를 사용하는 두 가지 방법, new Promise, Promise.resolve() - http://han41858.tistory.com/11
+			봐도봐도 헷갈리는 resolve, reject - https://velog.io/@rejoelve/%EB%B4%90%EB%8F%84-%EB%B4%90%EB%8F%84-%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94-resolve-reject
 		통신
 			fetch api1 - http://hacks.mozilla.or.kr/2015/05/this-api-is-so-fetching/
 		TDD
@@ -924,6 +940,8 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 			jest cheatsheets[ TDD ] - https://devhints.io/jest
 			mocha 1 [BDD] - https://blog.outsider.ne.kr/770
 			mocha 테스트 - http://blog.jeonghwan.net/mocha/
+			실용적인 tdd 작성하기 - https://velog.io/@leejh3224/%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0
+			함수형 프로그래밍과 테스트 - https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/?fbclid=IwAR1a-npFrVXsevZq-tV6Vq0fQ-iUabeIUpDNBlA-dS_a32GHi7tCN5kVBek
 		mobile
 			터치 이벤트 - http://wit.nts-corp.com/2013/12/20/583
 		REACT
@@ -955,6 +973,8 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 			redux saga 번역본 - http://blog.mskim.me/posts/redux-saga
 			react crud 게시판 만들기 - http://forest71.tistory.com/183
 			리액트 [ 면접, 블로그 ] 준비 등등 - https://appear.github.io/
+			ssr, csr - https://velog.io/@zansol/%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C%EB%A0%8C%EB%8D%94%EB%A7%81SSR-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%82%AC%EC%9D%B4%EB%93%9C%EB%A0%8C%EB%8D%94%EB%A7%81CSR
+			메테리얼 ui component(2019) [유아이 컴포넌트] - https://blog.bitsrc.io/11-material-design-ui-component-libraries-for-2018-b3d2c9962a2f
 			Source 
 				react simple tab1 - https://codepen.io/stephe17/pen/ZJmxrN
 				react tab1 - https://codepen.io/rudwnok/pen/RQZxxg
@@ -1011,6 +1031,8 @@ serve -s build
 			webpack.cofing.js 설명2 - http://d2.naver.com/helloworld/0239818
 			webpack4[웹팩4] - http://meetup.toast.com/posts/153
 			webpack + 스프링부트 기반의 개발환경 구축하기 - https://medium.com/@alvin.h/%EC%9B%B9%ED%8C%A9-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B8%B0%EB%B0%98%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-87cd758e1eae
+			webpack 기본설정법 - http://www.daleseo.com/webpack-config/
+			webpack4와 babel7로 react 개발환경 셋업하기 - https://medium.com/@benjaminwoojang/webpack-4%EC%99%80-babel-7%EC%9C%BC%EB%A1%9C-react%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%85%8B%EC%97%85%ED%95%98%EA%B8%B0-340e00d2760b
 		git [깃 깃허브]
 			git 과  github - http://ingeec.tistory.com/50
 				git pro pdf 버전 - https://progit2.s3.amazonaws.com/ko/2015-07-08-5c390/progit-ko.582.pdf
@@ -1022,16 +1044,12 @@ serve -s build
 			.gitignore - 깃에 올릴때 불필요한 파일 및 폴더무시 - http://promobile.tistory.com/369
 			실습으로 배우는 깃 - https://learngitbranching.js.org/
 			깃허브로 취업하기 - https://sujinlee.me/professional-github/
-			홈페이지 https://facebook.github.io/react/tutorial/tutorial.html
 			작업하던 프로젝트 git 에 올려 source 공유하기 http://krksap.tistory.com/565
 			깃공식문서 - https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F
-			git flow - http://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html
-원문 - https://jeffkreeftmeijer.com/git-flow/
 			progit 번역본 - https://github.com/rudwnok123/progit/blob/master/ko/01-introduction/01-chapter1.markdown
 			branch[브런치] - https://backlog.com/git-tutorial/kr/stepup/stepup2_2.html
 			cheat box - http://apps.testinsane.com/mindmaps/uploads/html/git%20cheat%20box.html
 			좋은 git 커밋 메시지를 작성하기 위한 8가지 약속 - https://djkeh.github.io/articles/How-to-write-a-git-commit-message-kor/ 
-			es6 요약 정리 - http://web-front-end.tistory.com/21
 		typescript[타입스크립트]
 			react에서 ts사용하기 - https://velopert.com/3595
 			typescript study handbook - https://typescript-kr.github.io/pages/Interfaces.html
@@ -1042,7 +1060,9 @@ serve -s build
 			이웅재님 타입스크립트 기초 강좌 - http://slides.com/woongjae/typescript-basic#/
 			현섭님 깃허브.io - https://hyunseob.github.io/2016/10/02/typescript-basic-type/
 			제네릭 [ Generic ] - https://feel5ny.github.io/2018/12/09/Typescript_14/
+			타스를시작하기 전에 이정도는 해줘야지 - https://velog.io/@dongwon2/TypeScript%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%9D%B4%EC%A0%95%EB%8F%84%EB%8A%94-%ED%95%B4%EC%A4%98%EC%95%BC%EC%A7%80
 		프론트엔드 직업 분류[핸드북] - https://frontendmasters.com/books/front-end-handbook/2018/practice/types-of-front-end-dev.html
+		es6 요약 정리 - http://web-front-end.tistory.com/21
 		차트(총 21개)
 			morris.js  - 모리스 차트 ( 차트 전용) 
 			http://www.jqplot.com/examples/
@@ -1073,13 +1093,16 @@ http://tympanus.net/Tutorials/Animated3DBarChart/  3차원 입체 bar차트 Anim
 			pwa 사용법?[pwa progresive] - https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=ko
 			pwa 란?[pwa progresive] - https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app
 			pwa에 대하여 간략한 개인 설명? - http://grapgrap.tistory.com/13
-	server
+	server[서버]
 		nginx(엔진엑스)
+		nginx(엔진엑스) 빠르게 셋팅 - https://nginxconfig.io/
 		로컬 서버 구축하기 bitnami
 	백
 		docker 모음집 - http://documents.docker.co.kr/
 			docker 설명 - https://okky.kr/article/485716
 			docker 설치 - http://www.realhanbit.co.kr/books/226/pages/2203/preview
+			docer 설치 실행 배포 - https://velog.io/@vies00/Docker
+			docker 기본 사용법 정리 - https://nicewoong.github.io/development/2017/10/09/basic-usage-for-docker/
 	개념
 		TDD를 연습하면서 참고하기 좋은 팁 10가지 - https://medium.com/@rinae/tdd-test-driven-development-%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%A9%B4%EC%84%9C-%EC%B0%B8%EA%B3%A0%ED%95%98%EA%B8%B0-%EC%A2%8B%EC%9D%80-%ED%8C%81-10%EA%B0%80%EC%A7%80-d8cf46ae1806
 		TDD , BDD의 차이점 - https://medium.com/@sryu99/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-tdd-bdd%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-3d25fab5ccb2
