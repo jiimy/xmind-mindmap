@@ -19,6 +19,7 @@ WEB
 			블로그 제이쿼리 - https://blog.naver.com/topsaga/140155551418
 			노마드 코더 사이트 - https://academy.nomadcoders.co/
 			교육사이트5종류     http://blog.naver.com/ohkyeob318/220970702512
+			엘리게이터? [ 완전 영문 ] - https://alligator.io/
 			꿈날개 - https://www.dream.go.kr/dream/index.do
 			programmers - https://programmers.co.kr/learn/
 			웨버스터디(html+css만)   http://webberstudy.com/ 
@@ -192,6 +193,7 @@ http://www.urbanbrush.net/web/
 			기기마다 다른 해상도 보기 http://screensiz.es/
 			기기마다 다른 해상도 보기2 - http://troy.labs.daum.net/
 			기기마다 다른 해상도 보기 모음집 - http://bizmark.co.kr/archives/262
+			기기마다다른 해상도 보기3 - https://vizdevices.yesviz.com/
 			기마다다른 해상도 보기[반응형 체크] - 
 http://app.xrespond.com/ - url 입력
 https://www.responsinator.com/ - 모바일 기기별
@@ -200,6 +202,7 @@ https://search.google.com/test/mobile-friendly  - 모바일 친화 체크
 http://mattkersley.com/responsive/ - 반응형 출력용 검증 툴
 http://ami.responsivedesign.is/ - url 체크
 https://designmodo.com/responsive-test/ - 레이아웃 검증 툴
+			디바이스 정보 보기[반응형] - https://www.mydevice.io/
 			테이블제네레이터 http://www.tablesgenerator.com/html_tables#
 			클립패스제네레이터[ clip ] - http://www.cssplant.com/clip-path-generator
 			클리핑 마스크 [clip mask] - https://css-tricks.com/clipping-masking-css/
@@ -220,6 +223,7 @@ https://designmodo.com/responsive-test/ - 레이아웃 검증 툴
 			보더로 삼각형만들기 - http://html5around.com/wordpress/tutorials/css-triangle/
 			구글 Analytics(애널리틱스) 설치 및 적용 - https://milooy.wordpress.com/2016/01/14/google-analtyics-1-intro/
 			구글 Analytics(애널리틱스) 설치 사용법 및 노하우(빈도수, 유입) - http://blogchannel.tistory.com/149
+			구글 Analytics(애널리틱스) 보기 - https://www.beusable.net
 			익스프레스 만들기1 - http://blog.jeonghwan.net/2017/10/03/diy-express-day1.html
 			gulp
 				gulp1 - http://blog.naver.com/chilla/220731069370
@@ -248,6 +252,12 @@ http://iyakiggun.blog.me/100165592587
 			이랜서 http://www.elancer.co.kr/index.php
 			프리모아 http://www.freemoa.net/ 
 			크몽  https://kmong.com/
+			이랜서
+			디자인 그룹나인
+			유니드잡
+			프리모아
+			프리몬
+			아임잡
 		알고리즘 문제풀이 사이트
 			AlgoSpot 
 			Codility
@@ -287,6 +297,7 @@ http://www.colourlovers.com/
 				재플린- https://medium.com/@jeans_studio/%EC%9C%88%EB%8F%84%EC%9A%B0-windows-%EC%97%90%EC%84%9C-%EC%8A%A4%EC%BC%80%EC%B9%98-%EC%97%86%EC%9D%B4-%ED%8F%AC%ED%86%A0%EC%83%B5-%EC%A0%9C%ED%94%8C%EB%A6%B0%EC%9C%BC%EB%A1%9C-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EA%B8%B0-3e25cece256e
 				브라켓 설치 - http://1ilsang.blog.me/220914753507
 				md파일 에디터[하루패드 타이포라(typora) - https://www.typora.io/#windows   = 미리보기 안되어 불편함. 에딧하고 엔터하면 미리보기
+				codsandbox - codesandbox.io
 				vscode
 					vscode 패키지1 - https://blog.naver.com/hwksr/221145454332
 					vscode 패키지2 - https://brendaniel.github.io/2017/10/18/VSCode-%EC%B6%94%EC%B2%9C-%ED%8C%A8%ED%82%A4%EC%A7%80/
@@ -300,6 +311,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 					vscode 디버그 모드? - https://skout90.github.io/2017/08/04/Ionic/Ionic-Visual-Studio-Code-%EB%94%94%EB%B2%84%EA%B9%85-%EB%B0%A9%EB%B2%95/
 					vscode task 사용하기 - http://demun.tistory.com/2526?category=514542
 					vscode 스니펫 - http://recoveryman.tistory.com/373?category=703125
+					vscode 스니펫2 - https://recoveryman.tistory.com/373
 					vscode ftp 연결 - http://boneman.tistory.com/entry/Visual-Studio-Code-FTP-%EC%97%B0%EB%8F%99
 					vscode python 환경 만들기 - https://brunch.co.kr/@sunghyunlim/13
 					vscode typescript 환경 만들기 - https://feel5ny.github.io/2017/11/10/Typescript_02/
@@ -307,6 +319,9 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 					vscode 단축키 - https://demun.github.io/vscode-tutorial/shortcuts/
 					vscode csscomb 설정 - https://cafe.naver.com/hacosa/235648
 					vscode 소소한 기능들 - https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4
+				온라인 컴파일 에디터
+					codesandbox.io
+					stackblitz.com
 			예제 모음집
 				codeplayer - http://thecodeplayer.com/
 				61가지 CSS 글자 효과 http://freefrontend.com/css-text-effects/#typing-text
@@ -325,6 +340,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 				grid-template-areas(실제 영역을 나타내는 부분. 속성을 객체처럼 씀) - https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas
 				grid 예제[그리드] - https://gridbyexample.com/examples/
 				grid 속성(그리드) - http://grid.malven.co/
+				그리드그리기 - https://cssgrid-generator.netlify.com/
 			이미지 꾸미기 https://nanati.me/css3-image-effects/#num10
 			css로 gnb 메뉴 만들기 - http://cssmenumaker.com/
 			자바스크립트 에디터(테스트기) - http://js.do/
@@ -344,8 +360,10 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			z-index 에 대하여 - https://mytory.net/archives/10997
 			포토샵CC 머리카락 누끼 따기 - http://enow.co.kr/221071879662
 			쇼핑몰처럼오버시 큰화면에서 보여주기 http://blog.naver.com/dasol825/220671795350
+			[검색엔진 seo] 최적화에서 꼭 피해야 할 3가지 - https://www.twinword.co.kr/blog/three-blackhat-seo-techniques/
 			2018년 웹 개발자 로드맵 - https://github.com/devJang/developer-roadmap
 			내 스타일의 폰트 만들어 사용하기 및 폰트검색 http://www.myfonts.com/
+			지정 영역 폰트만 다르게하기 [ unicode-range ] - https://feel5ny.github.io/2019/09/08/CSS_02/
 			폰트 매트릭스 [ font 규격, 어렵, 내용 김] - http://wit.nts-corp.com/2017/09/25/4903
 			웹폰트 빠른 사용 - https://google-webfonts-helper.herokuapp.com/fonts
 			카카오 헤어샵 (소스관리 - workflow ) - https://brunch.co.kr/@cg4jins/1
@@ -357,6 +375,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			인포그래픽 제작 https://infogr.am/
 			미디어쿼리(media) - https://dickymicky.blog.me/220474857648
 			대체 이미지 영역 잡아주기? - https://placeholder.com/
+			aspect-ratio - https://css-tricks.com/what-if-we-got-aspect-ratio-sized-images-by-doing-almost-nothing/
 			mouseover/out , mouseenter/leave 차이점 - https://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave
 			버튼 효과  http://rwdb.kr/button_10/
 			hover 효과(CSS)  http://blog.naver.com/PostView.nhn?blogId=pjh445&logNo=220979782752&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
@@ -365,7 +384,9 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			(배경)css mask transition - https://tympanus.net/Tutorials/CSSMaskTransition/index3.html
 			hover 효과(Jquery)  https://www.cmsfactory.net/node/11034
 			2개의 애니메이션? - https://stackoverflow.com/questions/26986129/play-multiple-css-animations-at-the-same-time
+			practical-scss-snapping - https://css-tricks.com/practical-css-scroll-snapping/
 			구글 폰트 용량 - http://coderifleman.tumblr.com/post/111825720099/%ED%95%9C%EA%B8%80-%EC%9B%B9-%ED%8F%B0%ED%8A%B8-%EA%B2%BD%EB%9F%89%ED%99%94%ED%95%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+			7 TOP css trends for 2019 - https://1stwebdesigner.com/7-top-css-trends-for-2019/
 			이미지 preloading?  - https://css-tricks.com/prefetching-preloading-prebrowsing/
 			hover 이미지 효과들(이쁨)  http://gudh.github.io/ihover/dist/index.html#
 			드롭다운메뉴  https://codepen.io/nxworld/details/OXPovd
@@ -404,8 +425,8 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			input type 종류 - https://blog.naver.com/heartflow89/221161705731
 			(네이버)웹마스터도구:웹 표준 최적화 기본 가이드 - http://webmastertool.naver.com/guide/basic_optimize.naver#
 			장바구니 담기는 애니메이션 - https://codemyui.com/add-to-cart-interaction/
-			사용자 정의 css속성 사용하기 - https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_variables
 			사용자 정의 html속성 사용하기 - https://en.bem.info/methodology/naming-convention/
+			사용자 정의 css속성 사용하기 - https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_variables
 			jquery each[JQEURY] - http://webclub.tistory.com/455
 			css검색 및 설명(영문) http://tools.css3.info/selectors-test/test.html
 			2018연봉 실수령액 - http://m.cafe.daum.net/ssaumjil/LnOm/1894025?svc=topRank
@@ -418,6 +439,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			이미지 경로 오류시 대체 이미지 설정 - http://secr.tistory.com/130
 			css애니메이션 유저 샘플 - http://deadintegral.cafe24.com/KISS/Projec/cssAni.html
 			css import 를 사용하기전 알아야 할 것들 - http://egloos.zum.com/seye2/v/2319809
+			easing - https://easings.net/#
 			FOUC[fouc 깜빡임 flash of unstyled content) - http://uzulab.tistory.com/4
 			Refactoring[리팩토링] - Refactoring
 			IE 6-8 의사클래스 및 속성 선택자 지원하기 https://offbyone.tistory.com/125
@@ -429,6 +451,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			팝업창 항상 윈도우화면 가운데에서 띄우게 하기 - https://blog.naver.com/jason0853/220308401844
 			css로 이미지의 원하는 부분만 잘라서 보여주기 (clipping) - https://m.blog.naver.com/PostView.nhn?blogId=honglaeggo&logNo=220020642714&targetKeyword=&targetRecommendationCode=1
 			웹을 지탱하는 기술 [ slideshare ] - https://www.slideshare.net/guruguru/ss-14241987
+			메타태그[브라우저 캐시] -  <meta http-equiv="pragma" content="no-cache" /> 
 			iframe 태그 반응형처럼 만들기? https://www.facebook.com/1mincoding/videos/770171259835872/
 			로딩 gif 만들기 - http://www.ajaxload.info/
 			[모바일]터치 이벤트 - http://itjunijuni.tistory.com/106
@@ -460,10 +483,14 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			REST[설명, rest, restful] - https://blog.naver.com/azure0777/221066646741
 			미니프로젝트[ 프로젝트 목록] - https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
 			파일첨부 버튼 디자인  http://webdir.tistory.com/435
+			이미지맵 잡아주는 - https://www.image-map.net/
+			유튜브 컨트롤 파라미터 - https://spicaryn.tistory.com/23
 			오픈소스 기여 - https://okky.kr/article/512868
 			메테리얼 ui[ui디자인] - https://material-ui-next.com/demos/drawers/
 			크로스브라우징 툴? - http://seunghyeonkim.tistory.com/54
 			브라우저 동작의 이해 reflow, repaint 그리고 최적화 - http://www.mimul.com/pebble/default/2013/07/07/1373183724195.html
+			Reflow or Repaint(or ReDraw)과정 설명 및 최적화 방법 - https://webclub.tistory.com/346
+			repaint reflow - https://github.com/wonism/TIL/blob/master/front-end/browser/reflow-repaint.md
 			ppt 기획서 참고용  http://www.tbwakorea.com/#gsi5218ci1b0q
 			html로 특수문자 만들기 https://www.toptal.com/designers/htmlarrows/
 			ppt 기획서, 제안서 참고자료(pdf) https://drive.google.com/drive/folders/0B114xNFVgQJMblkwWjQtVHlQYkE
@@ -476,6 +503,9 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			console.log : 우리가 모르는 유용한 기능들 - http://ibrahimovic.tistory.com/39
 			ie8에서 border-radius 쓰기 - http://mrb18.tistory.com/30
 			마우스 오른쪽 버튼 막기[ 개인 블로그에 쓸것 ] - http://reali.kr/wp/%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%98%A4%EB%A5%B8%EC%AA%BD%EB%A9%94%EB%89%B4-%EB%93%9C%EB%9E%98%EA%B7%B8-%EC%84%A0%ED%83%9D%EB%B3%B5%EC%82%AC/
+			dp의 개념 [모바일] -http://blog.rightbrain.co.kr/?p=1036
+			[모바일] device-pixel-ratio 계산 - https://feel5ny.github.io/2018/05/13/mediaQuery_01/
+			[모바일] ios 디바이스 - iosRes.com 
 			placeholder 문제점 - http://ibrahimovic.tistory.com/30
 			utf-8과 euc-kr   - 
 http://studyforus.tistory.com/167 
@@ -712,8 +742,12 @@ caseins.co.kr/03
 			모음 - http://devdocs.io/
 			자바스크립트 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 			grid 속성 - https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas
+	출퇴근길 개발 읽기
+		git flow , github flow, gitlab flow - https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/
+		알고리즘 기초 - https://librewiki.net/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%88%98%ED%95%99%EC%9D%B8%EB%93%AF_%EA%B3%BC%ED%95%99%EC%95%84%EB%8B%8C_%EA%B3%B5%ED%95%99%EA%B0%99%EC%9D%80_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B8%B0%EC%B4%88
 	HTML[ 에이치티엠엘 ]
 		css와 jquery 셀렉터  http://blog.naver.com/dbstpwls32/220821914984
+		option 기본값이후로 선택안되게 하기 - option 에 disabled selected
 		5.1이상 시멘틱 태그 사용 예제 slideshare - https://www.slideshare.net/UyeongJu/ss-76583614
 		[팀 버너스 리, 웹 접근성 지침서 - 공식] - https://www.wah.or.kr:444/Participation/guide.asp
 		html 레퍼런스 문서[HTML5, self closing, 셀프 클로징] - https://dev.w3.org/html5/html-author/
@@ -765,6 +799,7 @@ http://aboooks.tistory.com/318
 			~ 의 의미   http://blog.naver.com/zmvk3967/220457765133
 			Stylus  http://blog.outsider.ne.kr/633
 			css drawing? - https://www.bypeople.com/50-impressive-css-drawings/
+			웹접근성고려 텍스트 숨기기(blind) - https://yeoninim.tistory.com/36
 			postCss - https://medium.com/@FourwingsY/postcss-%EC%86%8C%EA%B0%9C-727310aa6505
 			pajet(온라인 접근성 검사 도구)  - http://pajet.net/
 			title 속성 - http://blog.hivelab.co.kr/%EA%B3%B5%EC%9C%A0-title-%EC%86%8D%EC%84%B1%EC%9D%98-%EB%B0%94%EB%9E%8C%EC%A7%81%ED%95%9C-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/
@@ -772,6 +807,7 @@ http://aboooks.tistory.com/318
 			js. scroll bar 커스텀 - http://manos.malihu.gr/jquery-custom-content-scroller/
 			스크롤바 커스텀 css2 - https://css-tricks.com/custom-scrollbars-in-webkit/
 			smacss oocss bem - http://blog.naver.com/love_junim/220556775062
+			bfc, ifc, css rendering - https://lsc900427.github.io/2017/08/31/css-rendering1/
 			smacss oocss bem 2 - https://gomdoreepooh.github.io/notes/smacss-bem-oocss
 			bem2 - https://velog.io/@yesdoing/BEM-Block-Element-Modifier-Quick-start
 			애니메이션 속성들 - https://brunch.co.kr/@99-life/3
@@ -815,6 +851,9 @@ wai-aria    -  https://docs.google.com/presentation/d/1KvzXFdZZS6DaM03HjzTd3Tied
 https://goo.gl/jAxyEY
 https://goo.gl/rXfuCe
 https://goo.gl/TpS7j6
+	css
+		writing-mode[ 글씨 쓰는 방향 정하기 ] - https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_writing-mode
+		15scss bg effects - https://1stwebdesigner.com/15-css-background-effects/
 	JQUERY : babel coffescript typescript
 		setInterval  http://nararacds.tistory.com/m/16
 		trim[공백제거] - https://api.jquery.com/jquery.trim/
@@ -858,6 +897,7 @@ http://devjhs.tistory.com/109
 		동적으로 객체 생성시 jquery 제어 방법    http://infodbbase.tistory.com/65
 	JAVASCRIPT[자바스크립트]
 		javascript Cookbook[설명] - https://mylko72.gitbooks.io/javascript-cookbook/content/index.html
+		epoch converter[ timestamp ] - https://www.epochconverter.com/
 		11개의 js 애니메이션 라이브러리(2019) - https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59
 		top10 js error[에러] - https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59
 		[MVC]
@@ -892,7 +932,7 @@ http://devjhs.tistory.com/109
 https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d
 		깊은 복사 얕은 복사 - http://wanna-b.tistory.com/18
 		Async-await는 어떻게 구현하는가 - https://medium.com/@la.place/async-await%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-fa08a3157647
-		패턴
+		디자인 패턴
 			SAM 패턴 [샘 패턴] 
 			싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
 			Observer 패턴 [ 옵저버 ] 
@@ -901,7 +941,10 @@ https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%E
 			adapter 패턴
 			facade 패턴
 			decorator 패턴
+			State 패턴
+			팩토리(factory) 패턴
 		객체지향 프로그래밍 5 원칙 - https://namu.wiki/w/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9B%90%EC%B9%99
+		객체지향 프로그래밍, oop 훑어보기 - https://evan-moon.github.io/2019/08/24/what-is-object-oriented-programming/
 		이벤트 전파를 막는 4가지 방법 
 - e.preventDefault();
 - e.stopPropagation()    현재 이벤트가 상위로 전파되지 않도록 중단.
@@ -924,6 +967,7 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 		버전별호환[크로스 브라우징] - http://kangax.github.io/compat-table/es5/
 		Vue.js + es6 - https://joshua1988.github.io/es6-online-book/const-let.html#블록-유효범위
 		구글 js 컨벤션 - https://google.github.io/styleguide/jsguide.html
+		구글의 코드 리뷰 가이드 - https://soojin.ro/review/?fbclid=IwAR0CzTwddpudJ0mLw4gMacuDJF7YokDf4oV78c9xohKiCi1dBk88wTAY5I8
 		자바스크립트 반응성(Reactivity)에 대한 가장 좋은 설명 - https://rhostem.github.io/posts/2018-09-12-javascript-reactivity/
 		AngularJS, Angular, React, Laravel 가이드(영어 원문) - https://scotch.io/guides
 		promise - http://programmingsummaries.tistory.com/325
@@ -967,6 +1011,7 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 			react library - https://devarchy.com/react
 			17개 popup Examples - https://react.rocks/tag/Popup
 			react 생명 주기 - https://www.zerocho.com/category/React/post/579b5ec26958781500ed9955
+			리액트 function component와 class component는 어떻게 다를까?- https://www.hamadevelop.me/reactfunctionclassdiff/
 			4가지 스타일 주는 방법 - https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
 			react render props pattern - https://medium.com/@dev_momo/react-render-props-pattern-1c53a6b9645c
 			redux 또는 mobx를 통한 상태 관리 - https://velog.io/@velopert/redux-or-mobx
@@ -981,7 +1026,7 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 			 배포
 				firebase로 create-react-app 배포하기 - https://blog.roto.codes/deploy-react-app-to-firebase/
 				firebase로 react 배포하기2 - https://chanspark.github.io/2017/12/06/Firebase-%EA%B3%B5%EB%B6%80.html
-				gitpage에 react올리기 [ 디비없이? ] -https://kycfeel.github.io/2017/05/30/GitHub-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%97%90-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/
+				gitpage에 react올리기 [ 디비없이? ] - https://kycfeel.github.io/2017/05/30/GitHub-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%97%90-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/
 				ftp 에 올리기 
 npm run-script build
 serve -s build  
@@ -1041,6 +1086,7 @@ serve -s build
 				개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
 				git / github 개념 - http://gangju.tistory.com/12
 				명령어 커스텀 하기 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
+				초보자가 알아두면 좋은 깃 명령어 - https://12bme.tistory.com/47?category=718952
 			.gitignore - 깃에 올릴때 불필요한 파일 및 폴더무시 - http://promobile.tistory.com/369
 			실습으로 배우는 깃 - https://learngitbranching.js.org/
 			깃허브로 취업하기 - https://sujinlee.me/professional-github/
@@ -1173,6 +1219,7 @@ GET '/user/1/boards'   // RESTful API
 		tof , eot , woff 확장자 설명과 사용 - http://blog.naver.com/rlgns8291/220936506128
 		웹 폰트 적용 - https://blog.naver.com/naan_ace/220073900577
 		OTF , TTF 설명 - http://blog.naver.com/hjkts0602/221007780005
+		웹 폰트 사용하기 - https://wit.nts-corp.com/2017/02/13/4258
 	기타 개발 정보
 		크롬 확장 프로그램 - https://chrome.google.com/webstore/category/extensions
 			CSSViewer
