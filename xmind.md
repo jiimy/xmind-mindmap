@@ -3,6 +3,7 @@ WEB
 	사이트
 		교육
 			생활코딩(JQuery)    https://opentutorials.org/course/53/45 
+			에버노트 동기화 테스트
 			강의 https://opentutorials.org/course/1688/9332
 			강의 http://poiemaweb.com/
 			html, css 정리집 (js약간, 원문) - http://htmldog.com/  
@@ -33,6 +34,7 @@ WEB
 			w3schools howto - https://www.w3schools.com/howto/default.asp
 			w3schools jquery https://www.w3schools.com/jquery/jquery_hide_show.asp
 			MDN javascript - https://developer.mozilla.org/ko/docs/Learn/JavaScript
+			모던 javascript 튜토리얼 - https://ko.javascript.info/
 			jquery UI  http://jqueryui.com/
 			jquery 문법  http://jquery.com/
 			jquery 예제 모음집 http://blog.naver.com/hooni2967/220736041913
@@ -246,6 +248,7 @@ http://iyakiggun.blog.me/100165592587
 				sass 함수 정리표 - http://sass-lang.com/documentation/Sass/Script/Functions.html
 				sass 프로젝트를 위한 아키텍쳐(이나 기본 css구조에도 참고) - http://www.webactually.co.kr/archives/13106
 				sass 기초와 활용 2017 하코사 [세미나] - http://hwangsunsoo.org/lecture/src/sass_article_seminar_2017_2nd_half.html#%EC%BA%90%EC%8B%9C(--cache)
+				map - https://webdesign.tutsplus.com/tutorials/an-introduction-to-sass-maps-usage-and-examples--cms-22184
 		프리랜서
 			위시캣 https://www.wishket.com/project
 			프리누리 http://www.freenuri.co.kr/main/index.html
@@ -265,6 +268,9 @@ http://iyakiggun.blog.me/100165592587
 			해커랭크
 			leetcode
 			백준
+			Leetcode
+			 Codility
+			Hackerrank
 		팁
 			팁 모음집 - http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=20
 			색상관련
@@ -279,9 +285,9 @@ http://www.colourlovers.com/
 				색섞기 http://trycolors.com/
 				그라데이션 만들기  https://webgradients.com/
 				그라데이션 만들기2 https://www.grabient.com/
-				그라데이션 만들기3 - http://sapjilmaster.tistory.com/entry/css3-gradients-generate-blend
 				그라데이션 만들기4 - https://uigradients.com/#Portrait
 				그라데이션 만들기5 - http://www.colorzilla.com/gradient-editor/
+				그라데이션 만들기 6 - https://www.gradientmagic.com
 				그라데이션 정의  http://sanissan.tistory.com/208
 				색 추천? - http://www.color-hex.com/
 				디자이너와 클라이언트를 위한 색깔 정리 - https://brunch.co.kr/@roysday/93
@@ -322,6 +328,9 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 				온라인 컴파일 에디터
 					codesandbox.io
 					stackblitz.com
+					https://plnkr.co/
+					codpen.io
+					https://jsfiddle.net/
 			예제 모음집
 				codeplayer - http://thecodeplayer.com/
 				61가지 CSS 글자 효과 http://freefrontend.com/css-text-effects/#typing-text
@@ -427,6 +436,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			장바구니 담기는 애니메이션 - https://codemyui.com/add-to-cart-interaction/
 			사용자 정의 html속성 사용하기 - https://en.bem.info/methodology/naming-convention/
 			사용자 정의 css속성 사용하기 - https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_variables
+			css 파일 용량 확인하기 - https://varvy.com/tools/css-delivery/
 			jquery each[JQEURY] - http://webclub.tistory.com/455
 			css검색 및 설명(영문) http://tools.css3.info/selectors-test/test.html
 			2018연봉 실수령액 - http://m.cafe.daum.net/ssaumjil/LnOm/1894025?svc=topRank
@@ -703,6 +713,9 @@ http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=2
 			[토픽]흔한 착각2 직장에 들어갔으면 1년은 버텨야지 - http://cafe.naver.com/hacosa/203733
 			[토픽] 레거시 코드와 리팩토링[legacy code와 repactoring?] - https://blog.naver.com/jhleed/220292201792
 			[토픽] 어떻게 쉽게 HTML5 개발자로 전환 할 수 있었을까? - https://brunch.co.kr/@cmiscm/3
+			[토픽] 자스 깔끔하게 쓰기 함수 - https://m.blog.naver.com/PostView.nhn?blogId=kira4195&logNo=221230626334&proxyReferer=https:%2F%2Fwww.google.com%2F
+			[토픽] css 성능 최적화를 위한 20가지 팁[영문] (css속성 순서에 따른 렌더링? 11번째) - https://www.sitepoint.com/optimizing-css-performance/ 
+			[논문] 렌더링 엔진 - https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#The_rendering_engine
 			[통계] https://madnight.github.io/githut/#/stars/2018/1
 			[후기] SI/대기업에서 스타트업으로 이직하기 - https://okky.kr/article/470785
 			[기사]고재도님 - http://www.bloter.net/archives/218402
@@ -711,6 +724,7 @@ http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=2
 			[논문] [번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 - https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr
 			[논문] 모든 개발자가 알아야 하는 SOLID 원칙 - http://doublem.org/SOLID_SRP_OCP/
 			[기사] 15살 서재원 개발자 - https://www.imaso.co.kr/archives/3668
+			[번역] 스코프와 클로저 - https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-javascript-scope-and-closures-8d402c976d19
 		컨퍼런스, 세미나, d2, 오키
 			fe-conf
 				2018
@@ -722,6 +736,12 @@ http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=2
 			오키
 				okycon2018 - https://okky.kr/article/538114
 		블로그 & 포트폴리오 [ 사이트 url 변동 가능성 매우 높음 ]
+			블로그 세부 문서
+				https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/
+				https://joshua1988.github.io/web-development/javascript/javascript-interview-3questions/
+				https://joshua1988.github.io/web-development/http-part1/
+				[joshua블로그] 이벤트 버블링, 캡쳐, 위임 -
+https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/
 			[포폴]93년생 김나영씨 - http://nykim.net/
 			'퍼블리셔'단어 창시자 - 신현석님 블로그 - https://hyeonseok.com/pmwiki/
 			http://zowsky24.dothome.co.kr
@@ -738,6 +758,7 @@ caseins.co.kr/03
 			[기사]인공지능 웹사이트 디자인 -  https://m.blog.naver.com/PostView.nhn?blogId=hallym&logNo=220279247459&proxyReferer=http%3A%2F%2Fnaver.me%2FxKD39dl7
 
 			김정환님 [블로그]  - http://blog.jeonghwan.net/
+			js 및 개인 블로그 - https://medium.com/@hongkevin
 		레퍼런스(기술 문서?)
 			모음 - http://devdocs.io/
 			자바스크립트 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
@@ -771,6 +792,7 @@ http://aboooks.tistory.com/346
 				details-summary
 				will-change(익플 지원안함)
 				SVG
+				perspective
 				3d모션에서 쓰이는 속성 - backface-visibility
 			Pug  http://blog.naver.com/eun033/220971083056
 			rel속성   http://linuxism.tistory.com/633
@@ -803,6 +825,7 @@ http://aboooks.tistory.com/318
 			postCss - https://medium.com/@FourwingsY/postcss-%EC%86%8C%EA%B0%9C-727310aa6505
 			pajet(온라인 접근성 검사 도구)  - http://pajet.net/
 			title 속성 - http://blog.hivelab.co.kr/%EA%B3%B5%EC%9C%A0-title-%EC%86%8D%EC%84%B1%EC%9D%98-%EB%B0%94%EB%9E%8C%EC%A7%81%ED%95%9C-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/
+			css level 4 - https://css4-selectors.com/selectors/
 			스크롤바 커스텀css - http://www.homejjang.com/09/scrollbar_color.php
 			js. scroll bar 커스텀 - http://manos.malihu.gr/jquery-custom-content-scroller/
 			스크롤바 커스텀 css2 - https://css-tricks.com/custom-scrollbars-in-webkit/
@@ -812,7 +835,6 @@ http://aboooks.tistory.com/318
 			bem2 - https://velog.io/@yesdoing/BEM-Block-Element-Modifier-Quick-start
 			애니메이션 속성들 - https://brunch.co.kr/@99-life/3
 			당신은 모르는 css의 7가지 단위 - https://webdesign.tutsplus.com/ko/articles/7-css-units-you-might-not-know-about--cms-22573
-			flex 설명 - http://www.beautifulcss.com/archives/2812
 			flex 레이아웃 [ 애니메이션으로 설명] - https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
 			flex - http://wit.nts-corp.com/2018/07/27/5274
 			실습으로 배우는 flex - http://flexboxfroggy.com/#ko
@@ -826,6 +848,7 @@ http://aboooks.tistory.com/318
 https://codepen.io/rachelandrew/pen/dqNeJm
 			css 이벤트 제어 속성[ pointer-events ] - http://webdir.tistory.com/506
 			bem 구조 - https://medium.com/witinweb/css-%EB%B0%A9%EB%B2%95%EB%A1%A0-1-bem-block-element-modifier-1c03034e65a1
+			shape [모양 만들기] - https://css-tricks.com/the-shapes-of-css/
 			LESS
 				http://jos39.tistory.com/185
 				http://webclub.tistory.com/384
@@ -897,7 +920,10 @@ http://devjhs.tistory.com/109
 		동적으로 객체 생성시 jquery 제어 방법    http://infodbbase.tistory.com/65
 	JAVASCRIPT[자바스크립트]
 		javascript Cookbook[설명] - https://mylko72.gitbooks.io/javascript-cookbook/content/index.html
+		mozila js기본 입문서 - https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript
 		epoch converter[ timestamp ] - https://www.epochconverter.com/
+		shadow dom은 무엇일까? - https://wit.nts-corp.com/2019/03/27/5552
+		es8 - https://www.zerocho.com/category/ECMAScript/post/58cea165ab6eaa00180c5234
 		11개의 js 애니메이션 라이브러리(2019) - https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59
 		top10 js error[에러] - https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59
 		[MVC]
@@ -943,6 +969,8 @@ https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%E
 			decorator 패턴
 			State 패턴
 			팩토리(factory) 패턴
+			스트레티지
+			커맨드 - https://dailyheumsi.tistory.com/217
 		객체지향 프로그래밍 5 원칙 - https://namu.wiki/w/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9B%90%EC%B9%99
 		객체지향 프로그래밍, oop 훑어보기 - https://evan-moon.github.io/2019/08/24/what-is-object-oriented-programming/
 		이벤트 전파를 막는 4가지 방법 
@@ -992,6 +1020,8 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 			React 강좌 - https://velopert.com/775
 			벨로퍼트님 react강좌 - https://www.inflearn.com/course/react-%EA%B0%95%EC%A2%8C-velopert/
 			https://1ilsang.blog.me/221124434407
+			react 를 배우기전에 알아야 할 자스 기초 - https://medium.com/@violetboralee/react%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-javascript%EA%B8%B0%EC%B4%88-e0665f8cbee0
+			react 예제 - https://www.react-spring.io/docs/hooks/examples
 			react 설명1 - https://velopert.com/2037
 			react 설치 2가지 방법 - http://naminsik.com/blog/3478
 			react 블로그 - https://jdub7138.blog.me/221071408817
@@ -1026,6 +1056,7 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 			 배포
 				firebase로 create-react-app 배포하기 - https://blog.roto.codes/deploy-react-app-to-firebase/
 				firebase로 react 배포하기2 - https://chanspark.github.io/2017/12/06/Firebase-%EA%B3%B5%EB%B6%80.html
+				firebase 사용하기 1 - https://blog.naver.com/varkiry05/221202998292
 				gitpage에 react올리기 [ 디비없이? ] - https://kycfeel.github.io/2017/05/30/GitHub-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%97%90-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/
 				ftp 에 올리기 
 npm run-script build
@@ -1109,7 +1140,7 @@ serve -s build
 			타스를시작하기 전에 이정도는 해줘야지 - https://velog.io/@dongwon2/TypeScript%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%9D%B4%EC%A0%95%EB%8F%84%EB%8A%94-%ED%95%B4%EC%A4%98%EC%95%BC%EC%A7%80
 		프론트엔드 직업 분류[핸드북] - https://frontendmasters.com/books/front-end-handbook/2018/practice/types-of-front-end-dev.html
 		es6 요약 정리 - http://web-front-end.tistory.com/21
-		차트(총 21개)
+		차트
 			morris.js  - 모리스 차트 ( 차트 전용) 
 			http://www.jqplot.com/examples/
 			https://developers.google.com/chart/  구글차트-방대한 기능
@@ -1120,10 +1151,7 @@ http://www.chartjs.org/samples/latest/
 http://jui.io/?lang=ko  제니퍼소프트 ui라이브러리
 http://chartplay.jui.io/ 
 http://html.nhncorp.com/nwagon  네이버차트
-http://ui.toast.com/tui-chart/  nhnent 에서 만듬,차트를 포함한 다양한 콤포넌트가 있음
-https://nhnent.github.io/tui.jsdoc-template/latest/#  
-https://nhnent.github.io/tui.grid/api/tutorial-example01-basic.html  그리드
-https://ecomfe.github.io/echarts-examples/public/index.html  중국 바이두에서 만듬
+https://www.echartsjs.com/examples/en/index.html 중국 바이두에서 만듬
 http://www.jqplot.com/examples/  순수 jquery chart
 http://www.jqplot.com/examples/multipleBarColors.php 
 http://dygraphs.com/gallery/#g/stock  대량의 데이타를 다룰때 유용
@@ -1138,6 +1166,7 @@ http://tympanus.net/Tutorials/Animated3DBarChart/  3차원 입체 bar차트 Anim
 			electron [ 엘렉트론, 일렉트론 ] - https://www.tutorialbook.co.kr/entry/Electron-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Hello-World?category=689805
 			pwa 사용법?[pwa progresive] - https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=ko
 			pwa 란?[pwa progresive] - https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app
+			pwa - https://webactually.com/2017/09/%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94-pwa%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%9C%EB%8B%A41/
 			pwa에 대하여 간략한 개인 설명? - http://grapgrap.tistory.com/13
 	server[서버]
 		nginx(엔진엑스)
