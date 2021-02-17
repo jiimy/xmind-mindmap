@@ -37,6 +37,7 @@ WEB
 			jquery UI  http://jqueryui.com/
 			jquery 문법  http://jquery.com/
 			jquery 예제 모음집 http://blog.naver.com/hooni2967/220736041913
+			jquery 슬라이더 예제 모음집 https://www.jssor.com/demos/
 			jquery 예제 문제 풀기 - http://try.jquery.com/
 			jquery를 javascript 로 변환 - http://youmightnotneedjquery.com/
 			유저오픈소스 라이브러리 - http://happycgi.com/
@@ -205,6 +206,8 @@ http://mattkersley.com/responsive/ - 반응형 출력용 검증 툴
 http://ami.responsivedesign.is/ - url 체크
 https://designmodo.com/responsive-test/ - 레이아웃 검증 툴
 			디바이스 정보 보기[반응형] - https://www.mydevice.io/
+			온라인 테스트 도구
+				스마트모바일 앱개발지원센터 - https://www.appvillage.or.kr/developerTools/onLineTestTools.do
 			테이블제네레이터 http://www.tablesgenerator.com/html_tables#
 			클립패스제네레이터[ clip ] - http://www.cssplant.com/clip-path-generator
 			클리핑 마스크 [clip mask] - https://css-tricks.com/clipping-masking-css/
@@ -380,6 +383,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			html5 유효성검사 - http://validator.w3.org/
 			사이트 디비 정보같은거 보기? - https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia
 			한글폰트검색 https://www.koreafont.com/fonts/list/
+			웹 폰트 사용과 최적화의 최근 동향 2020 - https://d2.naver.com/helloworld/4969726
 			event object 모음 - https://api.jquery.com/category/events/event-object/
 			메세지박스 나타내기 http://blog.naver.com/dasol825/220667449843
 			인포그래픽 제작 https://infogr.am/
@@ -397,6 +401,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			2개의 애니메이션? - https://stackoverflow.com/questions/26986129/play-multiple-css-animations-at-the-same-time
 			practical-scss-snapping - https://css-tricks.com/practical-css-scroll-snapping/
 			구글 폰트 용량 - http://coderifleman.tumblr.com/post/111825720099/%ED%95%9C%EA%B8%80-%EC%9B%B9-%ED%8F%B0%ED%8A%B8-%EA%B2%BD%EB%9F%89%ED%99%94%ED%95%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+			github profile 예쁘게 꾸미기 [ github ] -https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 			7 TOP css trends for 2019 - https://1stwebdesigner.com/7-top-css-trends-for-2019/
 			이미지 preloading?  - https://css-tricks.com/prefetching-preloading-prebrowsing/
 			hover 이미지 효과들(이쁨)  http://gudh.github.io/ihover/dist/index.html#
@@ -426,6 +431,7 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			세로 중앙 정렬 - https://mytory.net/uploads/legacy/css-absolute-center/demo/demo4.html
 			반응형 이미지 - http://rwdb.kr/ratio_calc/
 			swing 화살표 만들기 - http://html5around.com/wordpress/tutorials/jquery-animate-swing-arrow/
+			텍스트 fill 그라디언트 - https://brunch.co.kr/@skykamja24/506?fbclid=IwAR0Qqh7LAKVn2nNXcmeu8eYfpQGykPnhCrnjzuGb6crH9e7TwyVXHlCqNUY
 			칼리픽커 http://html-color-codes.info/
 			큐빅베지어 http://cubic-bezier.com/#.74,.69,.93,.91
 			큐빅베지어2 https://matthewlein.com/ceaser/
@@ -711,6 +717,7 @@ http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=2
 			[토픽] 클린코드와 소프트웨어 장인정신 - https://medium.com/@joongwon/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C%EC%99%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-59b4d8d143ed
 			[논문]Typescript 를 무서워 하지 않아도 되는 이유 - http://han41858.tistory.com/14
 			[논문]css will-change 프로퍼티에 관해 알아둬야 할 것[하드웨어 가속] - https://dev.opera.com/articles/ko/css-will-change-property/
+			[논문, 번역] - 렌더링 성능을 향상 시키는 새로운 css속성 - content-visibility - https://wit.nts-corp.com/2020/09/11/6223
 			[토픽]고무오리 문제 해결법 - http://wikibook.co.kr/article/rubber-duck-problem-solving/
 			[토픽]흔한 착각1 연봉은 낮지만 배울게 많아요. - http://cafe.naver.com/hacosa/203560
 			[토픽]흔한 착각2 직장에 들어갔으면 1년은 버텨야지 - http://cafe.naver.com/hacosa/203733
@@ -728,8 +735,10 @@ http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=2
 			[논문] 모든 개발자가 알아야 하는 SOLID 원칙 - http://doublem.org/SOLID_SRP_OCP/
 			[기사] 15살 서재원 개발자 - https://www.imaso.co.kr/archives/3668
 			[번역] 스코프와 클로저 - https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-javascript-scope-and-closures-8d402c976d19
+			[이력서] 노션으로 쉽게 만드는 포트폴리오 - https://private-space.tistory.com/100
+			[이력서] 개발자 이력서 작성하기 - https://brunch.co.kr/@hee072794/132
 		컨퍼런스, 세미나, d2, 오키
-			fe-conf
+			feconf
 				2018
 					한 편의 애니메이션 같은 css - https://slides.com/daybrush/cssmotiongraphic#/
 					웹폰트 사용과 최적화 - https://slides.com/sangjinlee/webconf-2018-5#/
@@ -738,6 +747,7 @@ http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=2
 				네이버 메인 페이지의 트래픽 처리 - https://d2.naver.com/helloworld/6070967
 			오키
 				okycon2018 - https://okky.kr/article/538114
+			이소영님 발표 자료 모음집 - https://speakerdeck.com/soyoung210/heonjibjulge-saejibdao-riaegteu-peurojegteu-gujojojeong
 		블로그 & 포트폴리오 [ 사이트 url 변동 가능성 매우 높음 ]
 			블로그 세부 문서
 				https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/
@@ -751,6 +761,7 @@ https://joshua1988.github.io/web-development/javascript/event-propagation-delega
 			https://findawayer.github.io/
 			[개발자] https://taegon.kim/archives/category/tiptech
 			92년생 조아라씨 - http://zowsky24.dothome.co.kr/#
+			[기술이력서] - 이소영 - https://so-so.dev/about/
 			[슈기냥님 블로그] http://webholic.net/
 			caseins.co.kr/01
 caseins.co.kr/02
@@ -811,58 +822,6 @@ http://aboooks.tistory.com/346
 					noscript - http://webdir.tistory.com/322?category=607030
 			웹 표준에 근거한 html 문법 - http://www.betterweb.or.kr/blog/using-web-standard-to-improve-websites/
 			a 태그 클릭시 나오는 테두리를 없애기 - <a>태그에 onfocus = "blur()" 추가 또는 css에서 :focus{outline = none;}
-		CSS3[씨에스에스] : postcss
-			ie9이상만 적용됨
-				calc   - width:calcc(100px - 10px); 처럼 연산가능하다
-				nth-of-type   -nth-child 처럼 div값과 같은 비 클래스. 비 아이디에 가상선택자로 사용이 가능하다. 
-			css3세로 코딩을 가로 코딩으로 변환 http://www.codebeautifier.com/#skip
-			:target  가상클래스  http://kin.naver.com/qna/detail.nhn?d1id=1&dirId=10402&docId=266753862&qb=Y3NzIHRhcmdldA==&enc=utf8&section=kin&rank=1&search_sort=0&spq=0&pid=TUDtXspySERssbrC10hsssssstK-221133&sid=HUgo3VHPMRtZAk6C0ZRsNg%3D%3D
-			왼쪽부터 - https://www.w3schools.com/cssref/pr_text_direction.asp
-			nth-child 마지막 3번째까지 - 
-http://aboooks.tistory.com/318
-			:target 가상클래스  http://micropilot.tistory.com/2515
-			~ 의 의미   http://blog.naver.com/zmvk3967/220457765133
-			Stylus  http://blog.outsider.ne.kr/633
-			css drawing? - https://www.bypeople.com/50-impressive-css-drawings/
-			웹접근성고려 텍스트 숨기기(blind) - https://yeoninim.tistory.com/36
-			postCss - https://medium.com/@FourwingsY/postcss-%EC%86%8C%EA%B0%9C-727310aa6505
-			pajet(온라인 접근성 검사 도구)  - http://pajet.net/
-			title 속성 - http://blog.hivelab.co.kr/%EA%B3%B5%EC%9C%A0-title-%EC%86%8D%EC%84%B1%EC%9D%98-%EB%B0%94%EB%9E%8C%EC%A7%81%ED%95%9C-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/
-			css level 4 - https://css4-selectors.com/selectors/
-			스크롤바 커스텀css - http://www.homejjang.com/09/scrollbar_color.php
-			js. scroll bar 커스텀 - http://manos.malihu.gr/jquery-custom-content-scroller/
-			스크롤바 커스텀 css2 - https://css-tricks.com/custom-scrollbars-in-webkit/
-			smacss oocss bem - http://blog.naver.com/love_junim/220556775062
-			bfc, ifc, css rendering - https://lsc900427.github.io/2017/08/31/css-rendering1/
-			smacss oocss bem 2 - https://gomdoreepooh.github.io/notes/smacss-bem-oocss
-			bem2 - https://velog.io/@yesdoing/BEM-Block-Element-Modifier-Quick-start
-			애니메이션 속성들 - https://brunch.co.kr/@99-life/3
-			당신은 모르는 css의 7가지 단위 - https://webdesign.tutsplus.com/ko/articles/7-css-units-you-might-not-know-about--cms-22573
-			flex 레이아웃 [ 애니메이션으로 설명] - https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
-			flex - http://wit.nts-corp.com/2018/07/27/5274
-			실습으로 배우는 flex - http://flexboxfroggy.com/#ko
-			word-break 속성과 word-wrap 속성 - http://wit.nts-corp.com/2017/07/25/4675
-			css레퍼런스? [레퍼런스] - https://cssreference.io/
-			css 레퍼런스 설명들(가상 선택자) - https://tympanus.net/codrops/css_reference/
-			SASS 코알라 -http://pshweb.tistory.com/entry/SASS%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4
-			css 권장 작성순서 - http://4eye.tistory.com/241
-			텍스트를시멘틱하게 만들어 주는 태그 - http://4eye.tistory.com/entry/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%8B%9C%EB%A9%98%ED%8B%B1%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EB%8A%94-%ED%83%9C%EA%B7%B8?category=819403
-			shapes 속성 - https://www.smashingmagazine.com/2018/09/css-shapes/
-https://codepen.io/rachelandrew/pen/dqNeJm
-			css 이벤트 제어 속성[ pointer-events ] - http://webdir.tistory.com/506
-			bem 구조 - https://medium.com/witinweb/css-%EB%B0%A9%EB%B2%95%EB%A1%A0-1-bem-block-element-modifier-1c03034e65a1
-			shape [모양 만들기] - https://css-tricks.com/the-shapes-of-css/
-			LESS
-				http://jos39.tistory.com/185
-				http://webclub.tistory.com/384
-				http://study.zziraweb.com/information/less%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EC%84%A4%EC%A0%95/
-			animation keyframe 시계같은거 - https://designmodo.com/steps-css-animations/
-		css 컨벤션
-			네이버 http://nuli.navercorp.com/sharing/fe/coding
-			다음널리 - http://darum.daum.net/convention/name
-			구글 - https://google.github.io/styleguide/htmlcssguide.html#CSS_Style_Rules
-			Github - https://github.com/xfiveco/css-coding-standards#naming-conventions
-			에어비엔비- https://github.com/ParkSB/javascript-style-guide
 		접근성 검사(확장프로그램)
 			heading 문법  - headingsmap 패키지
 		정찬명 님 자료 -  http://naradesign.net/wp/
@@ -877,10 +836,64 @@ wai-aria    -  https://docs.google.com/presentation/d/1KvzXFdZZS6DaM03HjzTd3Tied
 https://goo.gl/jAxyEY
 https://goo.gl/rXfuCe
 https://goo.gl/TpS7j6
-	css
+	CSS3[씨에스에스] : postcss
+		css 컨벤션
+			네이버 http://nuli.navercorp.com/sharing/fe/coding
+			다음널리 - http://darum.daum.net/convention/name
+			구글 - https://google.github.io/styleguide/htmlcssguide.html#CSS_Style_Rules
+			Github - https://github.com/xfiveco/css-coding-standards#naming-conventions
+			에어비엔비- https://github.com/ParkSB/javascript-style-guide
+		ie9이상만 적용됨
+			calc   - width:calcc(100px - 10px); 처럼 연산가능하다
+			nth-of-type   -nth-child 처럼 div값과 같은 비 클래스. 비 아이디에 가상선택자로 사용이 가능하다. 
 		writing-mode[ 글씨 쓰는 방향 정하기 ] - https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_writing-mode
 		15scss bg effects - https://1stwebdesigner.com/15-css-background-effects/
+		counter, counters 속성 - https://aboooks.tistory.com/262
 		nth-child  - http://nthmaster.com/
+		css3세로 코딩을 가로 코딩으로 변환 http://www.codebeautifier.com/#skip
+		:target  가상클래스  http://kin.naver.com/qna/detail.nhn?d1id=1&dirId=10402&docId=266753862&qb=Y3NzIHRhcmdldA==&enc=utf8&section=kin&rank=1&search_sort=0&spq=0&pid=TUDtXspySERssbrC10hsssssstK-221133&sid=HUgo3VHPMRtZAk6C0ZRsNg%3D%3D
+		왼쪽부터 - https://www.w3schools.com/cssref/pr_text_direction.asp
+		nth-child 마지막 3번째까지 - 
+http://aboooks.tistory.com/318
+		:target 가상클래스  http://micropilot.tistory.com/2515
+		~ 의 의미   http://blog.naver.com/zmvk3967/220457765133
+		Stylus  http://blog.outsider.ne.kr/633
+		css drawing? - https://www.bypeople.com/50-impressive-css-drawings/
+		웹접근성고려 텍스트 숨기기(blind) - https://yeoninim.tistory.com/36
+		postCss - https://medium.com/@FourwingsY/postcss-%EC%86%8C%EA%B0%9C-727310aa6505
+		pajet(온라인 접근성 검사 도구)  - http://pajet.net/
+		title 속성 - http://blog.hivelab.co.kr/%EA%B3%B5%EC%9C%A0-title-%EC%86%8D%EC%84%B1%EC%9D%98-%EB%B0%94%EB%9E%8C%EC%A7%81%ED%95%9C-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/
+		css level 4 - https://css4-selectors.com/selectors/
+		스크롤바 커스텀css - http://www.homejjang.com/09/scrollbar_color.php
+		js. scroll bar 커스텀 - http://manos.malihu.gr/jquery-custom-content-scroller/
+		스크롤바 커스텀 css2 - https://css-tricks.com/custom-scrollbars-in-webkit/
+		smacss oocss bem - http://blog.naver.com/love_junim/220556775062
+		bfc, ifc, css rendering - https://lsc900427.github.io/2017/08/31/css-rendering1/
+		smacss oocss bem 2 - https://gomdoreepooh.github.io/notes/smacss-bem-oocss
+		bem2 - https://velog.io/@yesdoing/BEM-Block-Element-Modifier-Quick-start
+		애니메이션 속성들 - https://brunch.co.kr/@99-life/3
+		당신은 모르는 css의 7가지 단위 - https://webdesign.tutsplus.com/ko/articles/7-css-units-you-might-not-know-about--cms-22573
+		flex 레이아웃 [ 애니메이션으로 설명] - https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
+		flex - http://wit.nts-corp.com/2018/07/27/5274
+		실습으로 배우는 flex - http://flexboxfroggy.com/#ko
+		word-break 속성과 word-wrap 속성 - http://wit.nts-corp.com/2017/07/25/4675
+		css레퍼런스? [레퍼런스] - https://cssreference.io/
+		css 레퍼런스 설명들(가상 선택자) - https://tympanus.net/codrops/css_reference/
+		SASS 코알라 -http://pshweb.tistory.com/entry/SASS%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4
+		css 권장 작성순서 - http://4eye.tistory.com/241
+		텍스트를시멘틱하게 만들어 주는 태그 - http://4eye.tistory.com/entry/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%8B%9C%EB%A9%98%ED%8B%B1%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EB%8A%94-%ED%83%9C%EA%B7%B8?category=819403
+		shapes 속성 - https://www.smashingmagazine.com/2018/09/css-shapes/
+https://codepen.io/rachelandrew/pen/dqNeJm
+		css 이벤트 제어 속성[ pointer-events ] - http://webdir.tistory.com/506
+		bem 구조 - https://medium.com/witinweb/css-%EB%B0%A9%EB%B2%95%EB%A1%A0-1-bem-block-element-modifier-1c03034e65a1
+		shape [모양 만들기] - https://css-tricks.com/the-shapes-of-css/
+		LESS
+			http://jos39.tistory.com/185
+			http://webclub.tistory.com/384
+			http://study.zziraweb.com/information/less%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EC%84%A4%EC%A0%95/
+		animation keyframe 시계같은거 - https://designmodo.com/steps-css-animations/
+	scss [ 사스 ] 
+		scss도 npm 배포할수있다? - https://velog.io/@velopert/react-component-styling#utils-%ED%95%A8%EC%88%98-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0
 	JQUERY : babel coffescript typescript
 		setInterval  http://nararacds.tistory.com/m/16
 		trim[공백제거] - https://api.jquery.com/jquery.trim/
@@ -967,6 +980,13 @@ http://devjhs.tistory.com/109
 https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d
 		깊은 복사 얕은 복사 - http://wanna-b.tistory.com/18
 		Async-await는 어떻게 구현하는가 - https://medium.com/@la.place/async-await%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-fa08a3157647
+		설계 [ 디자인 시스템 ] 
+			emotion 을활용한 크몽 스타일링 시스템 - https://brunch.co.kr/@kmongdev/17
+			mono repo 를 위한 lerna 간단 정리하기 - https://medium.com/@pks2974/mono-repo-%EB%A5%BC-%EC%9C%84%ED%95%9C-lerna-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-65c22029988
+			Lerna 를 활용한 Mono-Repo 구축 완벽 가이드 - 개념 정리 
+- https://velog.io/@kdydesign/Lerna%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Mono-Repo-%EA%B5%AC%EC%B6%95-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC
+			emotion vs styled-componenet 
+- https://ideveloper2.dev/blog/2019-05-05--thinking-about-emotion-js-vs-styled-component/
 		디자인 패턴
 			SAM 패턴 [샘 패턴] 
 			싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
@@ -1028,9 +1048,14 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 			함수형 프로그래밍과 테스트 - https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/?fbclid=IwAR1a-npFrVXsevZq-tV6Vq0fQ-iUabeIUpDNBlA-dS_a32GHi7tCN5kVBek
 		mobile
 			터치 이벤트 - http://wit.nts-corp.com/2013/12/20/583
+		스토리북
+			storybook 입문 가이드 - https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/
+			laen storybook(intro)[ 번역 ] - https://www.learnstorybook.com/intro-to-storybook/react/ko/simple-component/
+			디자인시스템 소개 [ 번역 ] - https://www.learnstorybook.com/design-systems-for-developers/react/ko/introduction/
 		REACT
 			React 강좌 - https://velopert.com/775
-			storybook 입문 가이드 - https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/
+			벨로퍼트 리액트 블로그 - https://react.vlpt.us/
+			벨로퍼트 자스 블로그 - https://learnjs.vlpt.us/
 			벨로퍼트님 react강좌 - https://www.inflearn.com/course/react-%EA%B0%95%EC%A2%8C-velopert/
 			https://1ilsang.blog.me/221124434407
 			react 를 배우기전에 알아야 할 자스 기초 - https://medium.com/@violetboralee/react%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-javascript%EA%B8%B0%EC%B4%88-e0665f8cbee0
@@ -1044,6 +1069,8 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 			react 시작하기 - https://chanspark.github.io/2017/10/25/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.html
 			react로 만드는 UI - https://ant.design/components/tabs/#components-tabs-demo-slide
 			react router v3 vs v4 - https://blueshw.github.io/2017/06/22/static-routing-vs-dynamic-routing/
+			mobx + react 10분 튜토리얼 - https://brunch.co.kr/@hee072794/93
+			[번역] 7가지 멋진 react hooks - https://brunch.co.kr/@jowlee/135
 			애니메이션 가상돔 설명 - https://lispcast.com/what-is-react/
 			react router 종류 - https://blog.naver.com/mins5190/221191754008
 			REACT UI frameworks 프레임워크 TOP10 - https://ourcodeworld.com/articles/read/497/top-10-best-ui-frameworks-for-reactjs
@@ -1063,6 +1090,14 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 			리액트 [ 면접, 블로그 ] 준비 등등 - https://appear.github.io/
 			ssr, csr - https://velog.io/@zansol/%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C%EB%A0%8C%EB%8D%94%EB%A7%81SSR-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%82%AC%EC%9D%B4%EB%93%9C%EB%A0%8C%EB%8D%94%EB%A7%81CSR
 			메테리얼 ui component(2019) [유아이 컴포넌트] - https://blog.bitsrc.io/11-material-design-ui-component-libraries-for-2018-b3d2c9962a2f
+			css in js , css in css [이하 스인스, 스인즈]
+				스인즈와 스인스에 대한 장단점 - https://dev.to/adancarrasco/the-one-about-css-vs-css-in-js-2gn0
+				[번역] css in js 에 관해 알아야 할 모든것 - https://d0gf00t.tistory.com/22
+				css in js 에서 css in css 로 바꿔야 하는 이유 - https://blueshw.github.io/2020/09/14/why-css-in-css/
+				styled component [ 스타일드 컴포넌트 ] 
+					스타일드 컴포넌트에 대한 내용 - https://medium.com/ansarada-thinking/styled-components-v4-the-good-the-bad-and-something-completely-different-e891139e0138
+					styled componenet in styled component ( 및 스타일드 컴포넌트 여러 사용 방법들 ) - https://blog.nerdfactory.ai/2019/10/25/react-styled-components.html
+					사스의 맵 처럼 반복해서 이미지 보여주는 방법 - https://spectrum.chat/styled-components/general/loop-nth-child-in-styled-component~7342bb0f-0fb6-4548-ac56-75834008af69
 			Source 
 				react simple tab1 - https://codepen.io/stephe17/pen/ZJmxrN
 				react tab1 - https://codepen.io/rudwnok/pen/RQZxxg
@@ -1264,12 +1299,17 @@ GET '/user/1/boards'   // RESTful API
 		웹 폰트 적용 - https://blog.naver.com/naan_ace/220073900577
 		OTF , TTF 설명 - http://blog.naver.com/hjkts0602/221007780005
 		웹 폰트 사용하기 - https://wit.nts-corp.com/2017/02/13/4258
+		웹폰트경량화해 사용하기 - https://coderifleman.tumblr.com/post/111825720099
 	기타 개발 정보
 		크롬 확장 프로그램 - https://chrome.google.com/webstore/category/extensions
 			CSSViewer
 			Window Resizer
 			Awesome Screenshot: Capture & Annotate
 			jQuery API Browser
+	교육사이트
+		유데미
+		코드스쿼드
+		코드스피츠
 	책
 		프론트엔드 개발자를 위한 자바스크립트 프로그래밍
 		러닝 js  - https://april.gitbook.io/learning-js/chapter-6./6.4
