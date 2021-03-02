@@ -838,7 +838,7 @@ https://goo.gl/rXfuCe
 https://goo.gl/TpS7j6
 	CSS3[씨에스에스] : postcss
 		css 컨벤션
-			네이버 http://nuli.navercorp.com/sharing/fe/coding
+			네이버 https://nuli.navercorp.com/tool/codingCon
 			다음널리 - http://darum.daum.net/convention/name
 			구글 - https://google.github.io/styleguide/htmlcssguide.html#CSS_Style_Rules
 			Github - https://github.com/xfiveco/css-coding-standards#naming-conventions
